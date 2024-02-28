@@ -35,18 +35,12 @@ jobs:
         run: python concatenation.py
         working-directory: newsai_script-main
 
-      # Check if there are changes in the public directory, specifically for sitemap.csv
-      - name: Check for changes in sitemap.csv
-        id: check-changes
-        run: |
-          git diff --exit-code public/sitemap.csv || echo "SITEMAP_CHANGED=true" >> $GITHUB_ENV
-
-      # Commit and push the changes if sitemap.csv was updated
-      - name: Commit and Push if sitemap.csv was updated
-        if: env.SITEMAP_CHANGED == 'true'
+      # Commit and push sitemap.csv
+      - name: Commit and Push sitemap.csv
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add public/sitemap.csv
-          git commit -m "Automated update of sitemap.csv"
+          # Commit even if no changes (will result in a 'no change' commit if no changes)
+          git commit -m "Automated update of sitemap.csv" --allow-empty
           git push
