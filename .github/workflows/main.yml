@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository that contains the scripts and the sitemap.csv
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for all tags and branches
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,8 +39,13 @@ jobs:
       # Move the sitemap output file to the data directory, then copy it to the public directory
       - name: Update sitemap.csv in the public directory
         run: |
-          # Assuming the output of concatenation.py is placed in the newsai_script-main/data directory
           cp newsai_script-main/data/sitemap.csv public/sitemap.csv
+
+      # Ensure the local repository is in sync with the remote one
+      - name: Reset local changes to match remote
+        run: |
+          git fetch origin
+          git reset --hard origin/main
 
       # Commit and push sitemap.csv
       - name: Commit and Push sitemap.csv
@@ -47,6 +53,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add public/sitemap.csv
-          # Commit even if no changes to ensure workflow completion
-          git commit -m "Automated update of sitemap.csv" --allow-empty
-          git push
+          git commit -m "Automated update of sitemap.csv"
+          git push --force
