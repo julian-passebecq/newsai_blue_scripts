@@ -10,11 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository that contains the scripts and sitemap.csv
+      # Checkout the repository that contains the scripts and the sitemap.csv
       - uses: actions/checkout@v3
-        with:
-          repository: 'julian-passebecq/newsai_blue_scripts'
-          path: 'repository'
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,26 +21,25 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pandas requests advertools
-        working-directory: ./repository/newsai_script-main
+        working-directory: ./newsai_script-main
 
       - name: Run Sitemap Extraction
         run: python site.py
-        working-directory: ./repository/newsai_script-main
+        working-directory: ./newsai_script-main
 
       - name: Run YouTube Videos Fetching
         run: python youtube.py
-        working-directory: ./repository/newsai_script-main
+        working-directory: ./newsai_script-main
 
       - name: Run Concatenation
         run: python concatenation.py
-        working-directory: ./repository/newsai_script-main
+        working-directory: ./newsai_script-main
 
-      # Check if there are changes, specifically in the public directory where sitemap.csv is located
+      # Check if there are changes, specifically for sitemap.csv
       - name: Check for changes in sitemap.csv
         id: check-changes
         run: |
           git diff --exit-code ./public/sitemap.csv || echo "SITEMAP_CHANGED=true" >> $GITHUB_ENV
-        working-directory: ./repository
 
       # Commit and push the changes if sitemap.csv was updated
       - name: Commit and Push if sitemap.csv was updated
@@ -54,4 +50,3 @@ jobs:
           git add ./public/sitemap.csv
           git commit -m "Automated update of sitemap.csv"
           git push
-        working-directory: ./repository
