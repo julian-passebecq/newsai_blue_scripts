@@ -21,25 +21,25 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pandas requests advertools
-        working-directory: ./newsai_script-main
 
+      # Run Python scripts
       - name: Run Sitemap Extraction
         run: python site.py
-        working-directory: ./newsai_script-main
+        working-directory: newsai_script-main
 
       - name: Run YouTube Videos Fetching
         run: python youtube.py
-        working-directory: ./newsai_script-main
+        working-directory: newsai_script-main
 
       - name: Run Concatenation
         run: python concatenation.py
-        working-directory: ./newsai_script-main
+        working-directory: newsai_script-main
 
-      # Check if there are changes, specifically for sitemap.csv
+      # Check if there are changes in the public directory, specifically for sitemap.csv
       - name: Check for changes in sitemap.csv
         id: check-changes
         run: |
-          git diff --exit-code ./public/sitemap.csv || echo "SITEMAP_CHANGED=true" >> $GITHUB_ENV
+          git diff --exit-code public/sitemap.csv || echo "SITEMAP_CHANGED=true" >> $GITHUB_ENV
 
       # Commit and push the changes if sitemap.csv was updated
       - name: Commit and Push if sitemap.csv was updated
@@ -47,6 +47,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add ./public/sitemap.csv
+          git add public/sitemap.csv
           git commit -m "Automated update of sitemap.csv"
           git push
