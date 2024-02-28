@@ -1,0 +1,16 @@
+name: Copy Sitemap to Public Directory
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
+
+jobs:
+  copy-sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Copy sitemap.csv to public directory
+        run: cp newsai_script-main/data/sitemap.csv public/sitemap.csv
