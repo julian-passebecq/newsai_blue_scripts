@@ -1,4 +1,4 @@
-name: Copy Sitemap to Public Directory
+name: Copy Sitemap to Public Directory and Push
 
 on:
   workflow_dispatch:
@@ -6,11 +6,25 @@ on:
     - cron: '0 0 * * *'  # Runs at midnight UTC every day
 
 jobs:
-  copy-sitemap:
+  update-sitemap:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Copy sitemap.csv to public directory
         run: cp newsai_script-main/data/sitemap.csv public/sitemap.csv
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit new sitemap.csv
+        run: |
+          git add public/sitemap.csv
+          git commit -m "Update sitemap.csv" --allow-empty
+
+      - name: Push changes
+        run: |
+          git push origin HEAD:main
