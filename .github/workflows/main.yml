@@ -10,52 +10,59 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the scripts repository
       - uses: actions/checkout@v3
         with:
-          path: 'newsai_script-main'
+          repository: 'julian-passebecq/newsai_blue_scripts'
+          path: 'scripts'
 
+      # Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
+      # Install dependencies
       - name: Install dependencies
         run: |
           pip install pandas requests advertools
-        working-directory: ./newsai_script-main
+        working-directory: ./scripts/newsai_script-main
 
+      # Run Python scripts
       - name: Run Sitemap Extraction
         run: python ./site.py
-        working-directory: ./newsai_script-main
+        working-directory: ./scripts/newsai_script-main
 
       - name: Run YouTube Videos Fetching
         run: python ./youtube.py
-        working-directory: ./newsai_script-main
+        working-directory: ./scripts/newsai_script-main
 
       - name: Run Concatenation
         run: python ./concatenation.py
-        working-directory: ./newsai_script-main
+        working-directory: ./scripts/newsai_script-main
 
-      # Checkout the external repository where sitemap.csv will be updated
-      - name: Checkout external repository for sitemap update
+      # Checkout the repository where the sitemap.csv should be updated
+      - name: Checkout repository for sitemap
         uses: actions/checkout@v3
         with:
           repository: 'julian-passebecq/newsai_blue_scripts'
-          token: ${{ secrets.EXTERNAL_REPO_PAT }}  # Ensure this secret is set in your GitHub repository
-          path: 'external-repo'
+          token: ${{ secrets.EXTERNAL_REPO_PAT }} # This should be a secret in your GitHub repo
+          path: 'public_repo'
+          ref: 'main'
 
-      # Copy the sitemap.csv from the script execution repository to the external repository
-      - name: Copy sitemap.csv to external repository
+      # Update sitemap.csv within its actual location
+      # Assuming your Python scripts already create or update it directly in the expected location
+      - name: Commit and Push updated sitemap.csv
         run: |
-          cp ./newsai_script-main/sitemap.csv ./external-repo/public/sitemap.csv
-
-      # Commit and push the updated sitemap.csv to the external repository
-      - name: Commit and Push sitemap.csv to external repository
-        run: |
-          cd external-repo
+          cd public_repo
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add public/sitemap.csv
-          git commit -m "Automated update of sitemap.csv"
-          git push
-        working-directory: ./external-repo
+          # Add and commit sitemap.csv if it exists and has changes
+          if [ -f "public/sitemap.csv" ]; then
+            git add public/sitemap.csv
+            git diff --staged --quiet || git commit -m "Update sitemap.csv via automated script"
+            git push
+          else
+            echo "sitemap.csv does not exist or no changes to commit."
+          fi
+        working-directory: ./public_repo
