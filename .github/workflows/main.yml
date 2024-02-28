@@ -21,7 +21,11 @@ jobs:
         run: |
           pip install pandas requests advertools
 
-      # Run Python scripts
+      # Delete existing sitemap.csv to avoid duplication issues
+      - name: Delete existing sitemap.csv
+        run: rm -f newsai_script-main/data/sitemap.csv
+
+      # Run Python scripts which generate a new sitemap.csv
       - name: Run Sitemap Extraction
         run: python site.py
         working-directory: newsai_script-main
@@ -34,25 +38,15 @@ jobs:
         run: python concatenation.py
         working-directory: newsai_script-main
 
-      # Rename old sitemap.csv and update with new one
-      - name: Rename existing sitemap.csv to sitemap.old
-        run: |
-          mv -f newsai_script-main/data/sitemap.old newsai_script-main/data/sitemap.old.bak
-          if [ -f newsai_script-main/data/sitemap.csv ]; then
-              mv -f newsai_script-main/data/sitemap.csv newsai_script-main/data/sitemap.old
-          fi
-        working-directory: .
-
       # Add sitemap.csv to git
       - name: Add sitemap.csv to git
         run: |
-          git add newsai_script-main/data/sitemap.old
           git add newsai_script-main/data/sitemap.csv
 
-      # Commit and push sitemap.csv if there are changes
-      - name: Commit and Push changes
+      # Commit and push sitemap.csv if it has been updated or created
+      - name: Commit and Push sitemap.csv
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git commit -m "Automated update of sitemap.csv and sitemap.old" --allow-empty
+          git commit -m "Automated update of sitemap.csv" --allow-empty
           git push origin HEAD:main
