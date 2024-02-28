@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Fetch all history for all tags and branches
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -36,22 +34,20 @@ jobs:
         run: python concatenation.py
         working-directory: newsai_script-main
 
-      # Move the sitemap output file to the data directory, then copy it to the public directory
-      - name: Update sitemap.csv in the public directory
+      # Move the sitemap output file to the data directory
+      - name: Update sitemap.csv in the data directory
         run: |
-          cp newsai_script-main/data/sitemap.csv public/sitemap.csv
+          cp newsai_script-main/data/sitemap.csv newsai_script-main/data/sitemap.csv  # If needed adjust this line
 
-      # Ensure the local repository is in sync with the remote one
-      - name: Reset local changes to match remote
+      # Add sitemap.csv to git
+      - name: Add sitemap.csv to git
         run: |
-          git fetch origin
-          git reset --hard origin/main
+          git add newsai_script-main/data/sitemap.csv
 
-      # Commit and push sitemap.csv
+      # Commit and push sitemap.csv if there are changes
       - name: Commit and Push sitemap.csv
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add public/sitemap.csv
-          git commit -m "Automated update of sitemap.csv"
-          git push --force
+          git commit -m "Automated update of sitemap.csv" --allow-empty
+          git push origin HEAD:main
