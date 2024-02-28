@@ -10,59 +10,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the scripts repository
+      # Checkout the repository that contains the scripts and sitemap.csv
       - uses: actions/checkout@v3
         with:
           repository: 'julian-passebecq/newsai_blue_scripts'
-          path: 'scripts'
+          path: 'repository'
 
-      # Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # Install dependencies
       - name: Install dependencies
         run: |
           pip install pandas requests advertools
-        working-directory: ./scripts/newsai_script-main
+        working-directory: ./repository/newsai_script-main
 
-      # Run Python scripts
       - name: Run Sitemap Extraction
-        run: python ./site.py
-        working-directory: ./scripts/newsai_script-main
+        run: python site.py
+        working-directory: ./repository/newsai_script-main
 
       - name: Run YouTube Videos Fetching
-        run: python ./youtube.py
-        working-directory: ./scripts/newsai_script-main
+        run: python youtube.py
+        working-directory: ./repository/newsai_script-main
 
       - name: Run Concatenation
-        run: python ./concatenation.py
-        working-directory: ./scripts/newsai_script-main
+        run: python concatenation.py
+        working-directory: ./repository/newsai_script-main
 
-      # Checkout the repository where the sitemap.csv should be updated
-      - name: Checkout repository for sitemap
-        uses: actions/checkout@v3
-        with:
-          repository: 'julian-passebecq/newsai_blue_scripts'
-          token: ${{ secrets.EXTERNAL_REPO_PAT }} # This should be a secret in your GitHub repo
-          path: 'public_repo'
-          ref: 'main'
-
-      # Update sitemap.csv within its actual location
-      # Assuming your Python scripts already create or update it directly in the expected location
-      - name: Commit and Push updated sitemap.csv
+      # Check if there are changes, specifically in the public directory where sitemap.csv is located
+      - name: Check for changes in sitemap.csv
+        id: check-changes
         run: |
-          cd public_repo
+          git diff --exit-code ./public/sitemap.csv || echo "SITEMAP_CHANGED=true" >> $GITHUB_ENV
+        working-directory: ./repository
+
+      # Commit and push the changes if sitemap.csv was updated
+      - name: Commit and Push if sitemap.csv was updated
+        if: env.SITEMAP_CHANGED == 'true'
+        run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          # Add and commit sitemap.csv if it exists and has changes
-          if [ -f "public/sitemap.csv" ]; then
-            git add public/sitemap.csv
-            git diff --staged --quiet || git commit -m "Update sitemap.csv via automated script"
-            git push
-          else
-            echo "sitemap.csv does not exist or no changes to commit."
-          fi
-        working-directory: ./public_repo
+          git add ./public/sitemap.csv
+          git commit -m "Automated update of sitemap.csv"
+          git push
+        working-directory: ./repository
