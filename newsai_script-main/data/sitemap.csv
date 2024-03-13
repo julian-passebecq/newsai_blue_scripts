@@ -2958,6 +2958,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-integratio
 pragmaticworks.com,https://pragmaticworks.com/blog/using-drill-through-buttons-to-replace-right-click-navigation-in-power-bi,2023-03-28,using drill through buttons to replace right click navigation in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/publishing-and-sharing-powerapps-applications,2024-02-13,publishing and sharing powerapps applications,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-row-level-security,2023-03-28,setting up power bi row level security,blog
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-week-how-to-keep-your-data-from-deceiving-you,2023-03-28,azure data week how to keep your data from deceiving you,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/loading-folders-as-data-sources-in-power-bi,2023-03-16,loading folders as data sources in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/sql-server-2016-data-masking-and-always-encrypted,2023-03-28,sql server 2016 data masking and always encrypted,blog
@@ -3043,7 +3044,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/model-options-for-enterprise-
 pragmaticworks.com,https://pragmaticworks.com/blog/why-separate-your-compute-from-your-storage,2023-03-28,why separate your compute from your storage,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/saving-power-apps-user-preferences-across-sessions,2023-03-28,saving power apps user preferences across sessions,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/webinar-follow-up-create-a-tactical-plan-using-hadoop-cloud-tech,2023-03-16,webinar follow up create a tactical plan using hadoop cloud tech,blog
-pragmaticworks.com,https://pragmaticworks.com/end-of-year-sale-2023,2024-01-06,end of year sale 2023,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/outperform-the-competition-with-azure-sql-data-warehouse,2023-03-28,outperform the competition with azure sql data warehouse,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/embedded-power-bi-in-azure,2023-03-28,embedded power bi in azure,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introduction-to-adding-checkboxes-in-word,2024-03-07,introduction to adding checkboxes in word,blog
@@ -3316,7 +3316,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-enlig
 pragmaticworks.com,https://pragmaticworks.com/event-list/sep-05-power-pages-ama-21,2024-02-21,sep 05 power pages ama 21,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-dataflows-sorting-through-fact-and-fiction,2023-03-28,power bi dataflows sorting through fact and fiction,blog
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-azure-data-factory,2023-10-03,introduction to azure data factory,blog
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-power-bi-can-make-your-life-easier-i-wish-i-knew,2023-03-28,how power bi can make your life easier i wish i knew,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-copilot-for-word-top-5-features,2024-01-25,microsoft copilot for word top 5 features,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/5-ways-azure-makes-your-enterprise-more-secure,2023-03-28,5 ways azure makes your enterprise more secure,blog
@@ -3894,6 +3893,7 @@ www.thatbluecloud.com,https://www.thatbluecloud.com/onelake-vs-adls-gen2/,2023-0
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2023-08-14,5 new features in microsoft fabric with july 2023 update,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/from-warehouses-to-lakehouses-the-journey/,2023-08-09,from warehouses to lakehouses the journey,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2023-07-15,delta lake v3 announced,blog
+GuyInACube,https://www.youtube.com/watch?v=Tw-n4o5LErw,2024-03-13,Dive into Microsoft Fabric&#39;s Power BI Direct Lake,youtube
 GuyInACube,https://www.youtube.com/watch?v=eDRgzEVwVEc,2024-03-07,Getting started with Visual Calcs in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=iC7BsYH9EKE,2024-03-02,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Mar 2, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=SyRDll6OvX0,2024-02-21,Creating your first EVENTSTREAM in Microsoft Fabric,youtube
@@ -3923,7 +3923,7 @@ GuyInACube,https://www.youtube.com/watch?v=wEcRTSNhtLg,2023-06-06,Understanding 
 GuyInACube,https://www.youtube.com/watch?v=VdwsJ-Ix-oc,2023-06-01,Leverage the Microsoft Fabric Trial,youtube
 GuyInACube,https://www.youtube.com/watch?v=zG2yyJzMooM,2023-05-31,Why can&#39;t I use Microsoft Fabric?,youtube
 GuyInACube,https://www.youtube.com/watch?v=-f0XIVEP7bE,2023-05-30,What is Microsoft Fabric (Public Preview)?,youtube
-GuyInACube,https://www.youtube.com/watch?v=5pg9MlQy9cE,2023-05-27,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (May 27, 2023)",youtube
+GuyInACube,https://www.youtube.com/watch?v=K2WdIdfpIic,2023-11-30,Let&#39;s look at using some PySpark in your first Microsoft Fabric Notebook,youtube
 GuyInACube,https://www.youtube.com/watch?v=40Lwg1QJFEY,2023-11-16,Digging deeper into Data Activator in Microsoft Fabric,youtube
 GuyInACube,https://www.youtube.com/watch?v=AyYDLTvoXNk,2023-11-15,Leverage OneLake with Azure Databricks,youtube
 GuyInACube,https://www.youtube.com/watch?v=jFr-o953dmk,2023-11-11,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Nov 11, 2023)",youtube
