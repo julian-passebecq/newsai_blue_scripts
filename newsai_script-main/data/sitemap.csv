@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-03-23,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-03-24,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -384,7 +384,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/01/29/analytics-development
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/16/scripts-to-improve-copying-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration-locally/,2024-03-16,scripts to improve copying a direct lake semantic model to another workspace using microsoft fabric git integration locally,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-03-19,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-microsoft-fabric-admin-portal-for-the-dp-600-exam/,2024-03-19,overview of the microsoft fabric admin portal for the dp 600 exam,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-23,thoughts about gaining the fabric analytics engineer associate certification,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-24,thoughts about gaining the fabric analytics engineer associate certification,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -3657,7 +3657,7 @@ www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+Vis
 www.data-traveling.com,https://www.data-traveling.com/articles/category/DAX,,DAX,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Python,,Python,blog
 www.data-traveling.com,https://www.data-traveling.com/contact,2023-08-10,contact,blog
-www.data-traveling.com,https://www.data-traveling.com/about,2024-03-04,about,blog
+www.data-traveling.com,https://www.data-traveling.com/about,2024-03-24,about,blog
 datasavvy.me,https://datasavvy.me/2018/06/06/power-bi-report-accessibility-checklist/,2024-02-01,power bi report accessibility checklist,blog
 datasavvy.me,https://datasavvy.me/2024/01/23/your-gradient-fill-bar-charts-in-power-bi-have-poor-color-contrast-but-you-can-fix-them/,2024-01-23,your gradient fill bar charts in power bi have poor color contrast but you can fix them,blog
 datasavvy.me,https://datasavvy.me/2024/01/09/switching-between-different-active-physical-relationships-in-a-power-bi-model/,2024-01-09,switching between different active physical relationships in a power bi model,blog
@@ -3884,9 +3884,9 @@ www.thatbluecloud.com,https://www.thatbluecloud.com/onelake-vs-adls-gen2/,2023-0
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2023-08-14,5 new features in microsoft fabric with july 2023 update,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/from-warehouses-to-lakehouses-the-journey/,2023-08-09,from warehouses to lakehouses the journey,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2023-07-15,delta lake v3 announced,blog
+GuyInACube,https://www.youtube.com/watch?v=BKDSsCzRDMw,2024-03-24,"🔴 Microsoft Fabric / Power BI Q&amp;A - LIVE (Mar 30, 2024) (Member Chat 2nd Half)",youtube
 GuyInACube,https://www.youtube.com/watch?v=x4afF_Ou58Y,2024-03-21,How to connect to Microsoft Fabric Items from Power BI Desktop?,youtube
 GuyInACube,https://www.youtube.com/watch?v=twT9BERneMI,2024-03-20,Decoding Direct Lake: The Truth Behind DirectQuery Fallback,youtube
-GuyInACube,https://www.youtube.com/watch?v=-_jY87oo9Sw,2024-03-14,Include in Refresh can trip you up within Power Query,youtube
 GuyInACube,https://www.youtube.com/watch?v=iC7BsYH9EKE,2024-03-02,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Mar 2, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=SyRDll6OvX0,2024-02-21,Creating your first EVENTSTREAM in Microsoft Fabric,youtube
 GuyInACube,https://www.youtube.com/watch?v=jouBo0AzbvQ,2023-12-13,Exploring Custom Spark Pools in Microsoft Fabric Lakehouses,youtube
@@ -3914,6 +3914,7 @@ GuyInACube,https://www.youtube.com/watch?v=VdwsJ-Ix-oc,2023-06-01,Leverage the M
 GuyInACube,https://www.youtube.com/watch?v=zG2yyJzMooM,2023-05-31,Why can&#39;t I use Microsoft Fabric?,youtube
 GuyInACube,https://www.youtube.com/watch?v=-f0XIVEP7bE,2023-05-30,What is Microsoft Fabric (Public Preview)?,youtube
 GuyInACube,https://www.youtube.com/watch?v=5pg9MlQy9cE,2023-05-27,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (May 27, 2023)",youtube
+GuyInACube,https://www.youtube.com/watch?v=jouBo0AzbvQ,2023-12-13,Exploring Custom Spark Pools in Microsoft Fabric Lakehouses,youtube
 GuyInACube,https://www.youtube.com/watch?v=XQQZm--eR4Y,2023-12-09,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Dec 9, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=MdmPjZAV9I8,2023-12-07,Control ACCESS to your Microsoft Fabric Lakehouse or Warehouse,youtube
 GuyInACube,https://www.youtube.com/watch?v=oPGGYLKhTOA,2023-12-06,Boost your productivity with DAX Query View in Power BI Desktop!,youtube
@@ -4190,6 +4191,7 @@ GuyInACube,https://www.youtube.com/watch?v=icCGFG6KpIA,2021-11-17,Configure Incr
 GuyInACube,https://www.youtube.com/watch?v=Z-J4n9uymQ0,2021-11-11,Review Performance Analyzer in this Power BI Report from Smart Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=eaOciHyL6kY,2021-11-10,Flexibility with Days Since calculations in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=M_nS1Liey-w,2021-11-04,Page intentionally left blank,youtube
+GuyInACube,https://www.youtube.com/watch?v=JZ0FwDr9SXU,2021-11-03,Create a Popup Window in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=SK0qSx3vY_k,2021-10-28,The Power BI Premium video you need to watch… probably (Oct 2021),youtube
 GuyInACube,https://www.youtube.com/watch?v=ZGQE1WZtD5M,2021-10-27,What&#39;s this Power BI report filtered by???,youtube
 GuyInACube,https://www.youtube.com/watch?v=lxbO6gjJqe0,2021-10-20,Highlight a row in a Power BI Paginated report,youtube
@@ -4251,7 +4253,6 @@ GuyInACube,https://www.youtube.com/watch?v=yYr_SlG8bpw,2021-03-25,Help your Powe
 GuyInACube,https://www.youtube.com/watch?v=qZOEDBedATA,2021-03-24,3 ways to REDUCE DATA In Power BI Desktop (No Premium needed!),youtube
 GuyInACube,https://www.youtube.com/watch?v=k9LGRfREuIk,2021-03-18,5 IDEAS to take Power BI reports to the NEXT LEVEL,youtube
 GuyInACube,https://www.youtube.com/watch?v=XBFVDedwLiY,2021-03-17,Using Microsoft Forms data with Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=5ikWESY4sHc,2021-03-11,INSANE AMAZING updates for the Power BI Embedded Playground (2021),youtube
 GuyInACube,https://www.youtube.com/watch?v=hbJA6EYHq1Y,2021-03-10,TAME the the beast that is DAX in Power BI (aka how to learn DAX),youtube
 GuyInACube,https://www.youtube.com/watch?v=TAsUb93r2tg,2021-03-04,Using Power BI reports from an end user perspective (2021),youtube
 GuyInACube,https://www.youtube.com/watch?v=0eYc-_KKTDs,2021-03-03,Ever wanted a NOTIFICATION in your Power BI Reports?,youtube
@@ -4273,6 +4274,7 @@ GuyInACube,https://www.youtube.com/watch?v=XSIbRNXGgPQ,2021-01-13,Getting starte
 GuyInACube,https://www.youtube.com/watch?v=1u6webYD-pc,2021-01-11,"Power BI XMLA endpoint, End-to-End diagram, Dataflows and more... (Roundup | Jan 11, 2021)",youtube
 GuyInACube,https://www.youtube.com/watch?v=_VaBzheAgxY,2021-01-06,Migrate your Paginated reports to Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=j8krcevfYTo,2021-01-04,"A look back and what is to come for Power BI and Guy in a Cube (Roundup | Jan 4, 2021)",youtube
+HowToPowerBI,https://www.youtube.com/watch?v=GkDOIRYiGFg,2024-03-24,GET Your DREAM Power BI Job,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=vyHRHTN47ik,2024-01-26,Power BI Quick Report Makeover  #shorts #powerbi #design,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=hvY6SJrq3Ys,2024-01-24,3 Hacks to Work Faster in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=mWPmKKgLFGw,2024-01-15,Power BI Report Makeover | Free Download  #shorts #powerbi #design,youtube
@@ -4302,7 +4304,7 @@ HowToPowerBI,https://www.youtube.com/watch?v=vyU1Y8_FFdY,2023-07-28,Create a UNI
 HowToPowerBI,https://www.youtube.com/watch?v=bFBKm7uSw4U,2023-07-24,QUICK Power BI REPORT Background DESIGN  #PowerBI #design #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=A--_dbwG3Ok,2023-07-16,GET RID of the x-axis SCROLL BAR | Power BI Visual DESIGN Trick  #PowerBI #design #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=KsFVyyv0qCc,2023-07-14,Creating a TIMELINE Visual Step by Step #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=SflwgY1Xgug,2023-07-08,Fastest way to ADD ICONS to Power BI REPORT  #PowerBI #design #shorts,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=MbPmCr4tfvk,2023-09-20,The ART of Subtle ANIMATION in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=e2CLS37OYiM,2023-09-19,IN-BETWEEN custom LABLES in a BAR CHART #shorts #powerbi,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=vfKxcGmw1sE,2023-09-17,Get MORE out of Your BAR CHARTS in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=TiS6vnju_mI,2023-09-13,UX Revolution with Visual Level PAGINATION in Power BI,youtube
@@ -4377,14 +4379,3 @@ HowToPowerBI,https://www.youtube.com/watch?v=tG6VQs3zQJo,2022-10-29,OneDrive + P
 HowToPowerBI,https://www.youtube.com/watch?v=eDEefg2YI90,2022-10-27,NEW Project? Do THIS First #powerbi #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=SzjSzc_BBwc,2022-10-23,Clear All SLICERS with 1 CLICK! #powerbi #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=5tuhw2jfmEU,2022-10-22,OMG! What did you do a year ago?! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vV6bj5c5zY4,2022-10-21,NEW in Power BI! Quick Measure Suggestions #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=6SJjzWehp8E,2022-10-20,Every Power BI Developer... #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=nKoJf2dhrWM,2022-10-19,How to learn DATA analytics? #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=X6Z9xNqvk_U,2022-10-18,Format Multiple Visuals at Once #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=n-eocu-scl0,2022-10-16,Visual Padding  #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=zJeMPMQztbo,2022-10-15,Power BI Developer Job,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=UW8Gu4RmBHU,2022-10-13,Create a POP-UP PANEL with Bookmarks in Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=bOYkeaBfIIQ,2022-10-12,Check your NUMBERS #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=v6fP8gyCLLc,2022-10-10,5 DESIGN TRICKS that Make EVERY Power BI Report Look GREAT!,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=lXHtrthKdqw,2022-10-09,The Fastest File Type for Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=RuCN212a9lU,2022-10-07,3 Questions for EVERY Report,youtube
