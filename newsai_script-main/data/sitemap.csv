@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-04-04,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-04-08,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -385,6 +385,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/03/16/scripts-to-improve-co
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-microsoft-fabric-admin-portal-for-the-dp-600-exam/,2024-03-19,overview of the microsoft fabric admin portal for the dp 600 exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-24,thoughts about gaining the fabric analytics engineer associate certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-04-04,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/04/08/initial-testing-of-mirroring-azure-cosmos-db-databases-in-microsoft-fabric/,2024-04-08,initial testing of mirroring azure cosmos db databases in microsoft fabric,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -1452,7 +1453,7 @@ www.oliviertravers.com,https://www.oliviertravers.com/more-marketing-blogs/,2002
 www.oliviertravers.com,https://www.oliviertravers.com/pick-a-car-any-car/,2002-05-07,pick a car any car,blog
 www.oliviertravers.com,https://www.oliviertravers.com/france-or-a-frontier/,2002-05-07,france or a frontier,blog
 www.oliviertravers.com,https://www.oliviertravers.com/hell-be-back-m-le-pen-is-down-but-not-out/,2002-05-07,hell be back m le pen is down but not out,blog
-data-mozart.com,https://data-mozart.com/,2024-04-07,,blog
+data-mozart.com,https://data-mozart.com/,2024-04-08,,blog
 data-mozart.com,https://data-mozart.com/to-direct-query-or-not/,2019-12-31,to direct query or not,blog
 data-mozart.com,https://data-mozart.com/secretlifeofctes/,2020-01-02,secretlifeofctes,blog
 data-mozart.com,https://data-mozart.com/working-with-images-in-power-bi/,2020-01-03,working with images in power bi,blog
@@ -1631,6 +1632,7 @@ data-mozart.com,https://data-mozart.com/parquet-file-format-everything-you-need-
 data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-live-in-person-training-in-the-usa/,2024-03-21,mastering dp 600 exam live in person training in the usa,blog
 data-mozart.com,https://data-mozart.com/what-is-mirroring-in-ms-fabric-and-why-do-i-consider-it-the-next-big-thing/,2024-03-31,what is mirroring in ms fabric and why do i consider it the next big thing,blog
 data-mozart.com,https://data-mozart.com/migrate-existing-power-bi-semantic-models-to-direct-lake-a-step-by-step-guide/,2024-04-07,migrate existing power bi semantic models to direct lake a step by step guide,blog
+data-mozart.com,https://data-mozart.com/meet-powerops-your-new-best-power-bi-external-friend/,2024-04-08,meet powerops your new best power bi external friend,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-04-06,datetool dimension an alternative time intelligence implementation,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-04-06,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-04-06,creating a copy of a bism tabular project,blog
@@ -1932,6 +1934,7 @@ www.sqlbi.com,https://www.sqlbi.com/articles/introducing-visual-shape-for-visual
 www.sqlbi.com,https://www.sqlbi.com/articles/revolutionizing-power-bi-introducing-the-ultimate-formula-language/,2024-04-06,revolutionizing power bi introducing the ultimate formula language,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/using-scatterplots-to-find-details-in-reports/,2024-04-06,using scatterplots to find details in reports,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/introducing-expand-and-collapse-for-visual-calculations/,2024-04-06,introducing expand and collapse for visual calculations,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-expand-and-collapse-in-visual-calculations/,2024-04-06,using expand and collapse in visual calculations,blog
 en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2022-02-18,allocating amounts using lists in power query,blog
 en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2023-12-05,changing data types that do not break query folding in power query power bi 1,blog
 en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2022-02-20,creating a custom fiscal calendar in power bi 1,blog
@@ -2262,6 +2265,7 @@ pragmaticworks.com,https://pragmaticworks.com/microsoft-teams-for-the-consumer,2
 pragmaticworks.com,https://pragmaticworks.com/blog/creating-new-azure-data-factory-data-flow-file-data-sets,2023-03-28,creating new azure data factory data flow file data sets,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-active-directory-seamless-single-sign-on,2023-03-28,what is azure active directory seamless single sign on,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/patterns-and-practices-creating-a-date-table,2023-03-16,patterns and practices creating a date table,blog
+pragmaticworks.com,https://pragmaticworks.com/lwtn-power-automate-beginner-to-pro-registration,2024-04-08,lwtn power automate beginner to pro registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/4-mistakes-to-avoid-in-your-data-analytics-projects,2023-03-28,4 mistakes to avoid in your data analytics projects,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/were-coming-to-the-big-apple-for-sqlsaturday-nyc,2023-03-16,were coming to the big apple for sqlsaturday nyc,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/new-azure-maps-visual-in-power-bi,2023-03-28,new azure maps visual in power bi,blog
@@ -3515,6 +3519,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/table-partitioning-in-sql-ser
 pragmaticworks.com,https://pragmaticworks.com/blog/unlocking-the-power-of-microsoft-co-pilot-new-features-and-how-to-get-started,2024-01-23,unlocking the power of microsoft co pilot new features and how to get started,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/return-working-days-in-power-bi-using-dax,2023-10-19,return working days in power bi using dax,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/coming-soon-sqlsaturday-phoenix,2023-03-16,coming soon sqlsaturday phoenix,blog
+pragmaticworks.com,https://pragmaticworks.com/power-automate-beginner-to-pro-thank-you,2024-04-08,power automate beginner to pro thank you,blog
 pragmaticworks.com,https://pragmaticworks.com/dax-for-paginated-reports,2023-11-07,dax for paginated reports,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-sankey,2023-03-28,power bi custom visuals sankey,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-desktop-and-dashboards-training,2023-03-28,power bi desktop and dashboards training,blog
@@ -4408,23 +4413,3 @@ HowToPowerBI,https://www.youtube.com/watch?v=vV6bj5c5zY4,2022-10-21,NEW in Power
 HowToPowerBI,https://www.youtube.com/watch?v=6SJjzWehp8E,2022-10-20,Every Power BI Developer... #powerbi #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=nKoJf2dhrWM,2022-10-19,How to learn DATA analytics? #powerbi #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=X6Z9xNqvk_U,2022-10-18,Format Multiple Visuals at Once #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=n-eocu-scl0,2022-10-16,Visual Padding  #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=zJeMPMQztbo,2022-10-15,Power BI Developer Job,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=UW8Gu4RmBHU,2022-10-13,Create a POP-UP PANEL with Bookmarks in Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=bOYkeaBfIIQ,2022-10-12,Check your NUMBERS #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=v6fP8gyCLLc,2022-10-10,5 DESIGN TRICKS that Make EVERY Power BI Report Look GREAT!,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=lXHtrthKdqw,2022-10-09,The Fastest File Type for Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=RuCN212a9lU,2022-10-07,3 Questions for EVERY Report,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=boWNYqlkVt4,2022-10-05,HIGHLIGHT Chosen Data Points in a Line Chart #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=C3QY0DWts8w,2022-10-02,NEW OFFSET Function in DAX | Will It Change How You Write DAX?,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=RyEQ9n9ails,2022-09-22,Set Up Automatic KPI Trackers | Dynamic Alerts in Power BI Desktop,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=90S-pnZiJCc,2022-09-07,NOTIFICATIONS in Your Power BI Report,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=-HyJyQnKKh4,2022-09-02,Gradient Color Overlay in Power BI #Shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=QaOG42ic2wI,2022-08-28,The ULTIMATE Slicer Panel in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=tEb0ENfajns,2022-08-15,NEW! Improved Formatting of Data LABELS in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=eFN9c4688WI,2022-08-10,Geocoding API in Power BI #Shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Ur0KOW8bU28,2022-08-07,Enable MORE Color OPTIONS I Dynamic GRADIENT in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=XciwaHASWGc,2022-07-14,PIMP MY SLICER | Improving the DESIGN of Native Slicers in Power BI - Step by Step,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=un4PkoGF3YM,2022-07-11,Measure-Driven Data Labels in Power BI #Shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=cYwioeHu_OU,2022-06-30,Build THIS! Report DESIGN in Power BI | FULL TUTORIAL,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Gkuq0jTAKj4,2022-06-27,Field Parameters in Power BI #Shorts,youtube
