@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-07-21,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-07-22,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -401,6 +401,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/07/15/from-power-view-to-mi
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/06/utilize-the-deploymentpipelines-deployall-powershell-script-and-azure-devops-to-update-microsoft-fabric-deployment-pipeline-stages/,2024-07-17,utilize the deploymentpipelines deployall powershell script and azure devops to update microsoft fabric deployment pipeline stages,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/17/three-ways-to-create-a-microsoft-fabric-data-warehouse-database-project/,2024-07-17,three ways to create a microsoft fabric data warehouse database project,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/20/curing-an-azure-certification-itch/,2024-07-21,curing an azure certification itch,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/07/22/initial-tests-of-github-support-for-microsoft-fabric-git-integration/,2024-07-22,initial tests of github support for microsoft fabric git integration,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -2359,7 +2360,6 @@ pragmaticworks.com,https://pragmaticworks.com/courses-old/copilot-in-microsoft-p
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-sql-data-warehouse,2023-03-28,what is azure sql data warehouse,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/transform-your-data-estate-with-azure,2024-06-17,transform your data estate with azure,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/advanced-data-modeling-with-power-bi,2024-07-03,advanced data modeling with power bi,blog
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-05-28,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/learn-with-the-nerds-power-bi-developer-of-the-future-with-fabric-recorded-live-event,2024-07-03,learn with the nerds power bi developer of the future with fabric recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-mekko-chart,2023-03-28,power bi custom visuals mekko chart,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/microsoft-onedrive-fundamentals,2024-07-13,microsoft onedrive fundamentals,blog
@@ -2909,6 +2909,7 @@ pragmaticworks.com,https://pragmaticworks.com/events/feb-20-virtual-microsoft-fa
 pragmaticworks.com,https://pragmaticworks.com/blog/worm-storage-in-azure,2023-03-28,worm storage in azure,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/using-azure-blob-storage-in-powerapps,2023-03-28,using azure blob storage in powerapps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-text-wrapper-maq-software,2023-03-28,power bi custom visuals text wrapper maq software,blog
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-05-28,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/power-bi-calculation-groups,2024-07-03,power bi calculation groups,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/next-generation-data-validation-put-an-end-to-your-bad-data-days,2023-03-28,next generation data validation put an end to your bad data days,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-lasso-select,2024-06-17,power bi lasso select,blog
@@ -2945,7 +2946,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/which-microsoft-project-plan-
 pragmaticworks.com,https://pragmaticworks.com/blog/announcing-our-new-course-administering-business-intelligence,2023-03-28,announcing our new course administering business intelligence,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-azure-database-for-mysql,2023-03-28,introducing azure database for mysql,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-circle-kpi-gauge,2023-03-28,power bi custom visuals circle kpi gauge,blog
-pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/dax,2024-04-10,dax,blog
 pragmaticworks.com,https://pragmaticworks.com/instructors/nate-halliwell,2024-04-28,nate halliwell,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/app-in-a-snap-park-inspection,2024-07-03,app in a snap park inspection,blog
 pragmaticworks.com,https://pragmaticworks.com/power-bi-subscriptions,2024-06-05,power bi subscriptions,blog
@@ -3467,6 +3467,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses/microsoft-forms-fundamenta
 pragmaticworks.com,https://pragmaticworks.com/courses-old/pl-900-microsoft-power-platform-fundamentals-review,2024-07-03,pl 900 microsoft power platform fundamentals review,blog
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-power-bi-datamarts,2023-08-29,introduction to power bi datamarts,blog
 pragmaticworks.com,https://pragmaticworks.com/feedback,2023-12-14,feedback,blog
+pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/dax,2024-07-22,dax,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/using-kpi-visuals-in-power-bi,2024-03-08,using kpi visuals in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/events/dec-11-virtual-power-bi-bootcamp-31,2024-03-14,dec 11 virtual power bi bootcamp 31,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/getting-to-know-azure-offerings,2023-03-28,getting to know azure offerings,blog
@@ -3488,6 +3489,7 @@ pragmaticworks.com,https://pragmaticworks.com/istelive-24-conference,2024-06-11,
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-visio-visual,2023-03-28,power bi custom visuals visio visual,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/new-feature-power-bi-subscriptions,2023-03-28,new feature power bi subscriptions,blog
 pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/ssrs,2024-04-30,ssrs,blog
+pragmaticworks.com,https://pragmaticworks.com/2/blog,2023-08-29,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-synoptic-panel,2023-03-28,power bi custom visuals synoptic panel,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-advanced-time-slicer,2023-03-28,power bi custom visuals advanced time slicer,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/dp-900-azure-data-fundamentals-review,2024-07-03,dp 900 azure data fundamentals review,blog
@@ -3944,7 +3946,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/high-volume-power-bi-best-pra
 pragmaticworks.com,https://pragmaticworks.com/blog/do-i-need-a-star-schema,2023-03-28,do i need a star schema,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-managed-instance-cancelled-deployment,2024-06-17,azure managed instance cancelled deployment,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/announcing-the-release-of-our-high-availability-course,2024-04-23,announcing the release of our high availability course,blog
-pragmaticworks.com,https://pragmaticworks.com/2/blog,2023-08-29,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/events/oct-02-virtual-power-apps-bootcamp-24,2024-03-14,oct 02 virtual power apps bootcamp 24,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/why-are-people-moving-to-azure-storage,2023-03-28,why are people moving to azure storage,blog
 pragmaticworks.com,https://pragmaticworks.com/events/feb-12-virtual-power-apps-bootcamp-56,2024-03-14,feb 12 virtual power apps bootcamp 56,blog
@@ -4306,7 +4307,7 @@ datasavvy.me,https://datasavvy.me/2017/03/14/insufficient-disk-space-t-sql-tuesd
 datasavvy.me,https://datasavvy.me/2017/03/10/copying-data-from-on-prem-sql-to-adls-with-adf-and-biml-part-2/,2020-09-24,copying data from on prem sql to adls with adf and biml part 2,blog
 datasavvy.me,https://datasavvy.me/2016/10/14/process-compatibility-level-1200-ssas-tabular-model-from-ssis-2014/,2024-01-22,process compatibility level 1200 ssas tabular model from ssis 2014,blog
 datasavvy.me,https://datasavvy.me/2017/12/18/design-concepts-for-better-power-bi-reports-part-3-gestalt-principles/,2020-09-24,design concepts for better power bi reports part 3 gestalt principles,blog
-datasavvy.me,https://datasavvy.me/2017/07/20/installing-the-microsoft-ace-oledb-12-0-provider-for-both-64-bit-and-32-bit-processing/,2024-01-03,installing the microsoft ace oledb 12 0 provider for both 64 bit and 32 bit processing,blog
+datasavvy.me,https://datasavvy.me/2017/07/20/installing-the-microsoft-ace-oledb-12-0-provider-for-both-64-bit-and-32-bit-processing/,2024-07-16,installing the microsoft ace oledb 12 0 provider for both 64 bit and 32 bit processing,blog
 datasavvy.me,https://datasavvy.me/2017/12/28/design-concepts-for-better-power-bi-reports-part-5-affordances/,2020-09-24,design concepts for better power bi reports part 5 affordances,blog
 datasavvy.me,https://datasavvy.me/2017/09/18/my-thoughts-after-completing-a-power-bi-report-server-poc/,2021-08-25,my thoughts after completing a power bi report server poc,blog
 datasavvy.me,https://datasavvy.me/2017/12/22/design-concepts-for-better-power-bi-reports-part-4-the-squint-test/,2020-09-24,design concepts for better power bi reports part 4 the squint test,blog
@@ -4378,7 +4379,7 @@ datasavvy.me,https://datasavvy.me/2013/08/16/im-speaking-at-sql-saturday-190-in-
 datasavvy.me,https://datasavvy.me/2013/07/03/im-speaking-at-sqlsaturday-236-in-st-louis/,2013-07-03,im speaking at sqlsaturday 236 in st louis,blog
 datasavvy.me,https://datasavvy.me/2013/06/30/links-for-excel-data-explorer/,2013-06-30,links for excel data explorer,blog
 datasavvy.me,https://datasavvy.me/2013/03/24/im-speaking-at-sql-saturday-197/,2013-03-24,im speaking at sql saturday 197,blog
-datasavvy.me,https://datasavvy.me,2024-06-22,,blog
+datasavvy.me,https://datasavvy.me,2024-07-16,,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/fabric-dataflows-support-service-principal-auth/,2024-07-09,fabric dataflows support service principal auth,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2024-07-09,delta lake v3 announced,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2024-07-09,5 new features in microsoft fabric with july 2023 update,blog
