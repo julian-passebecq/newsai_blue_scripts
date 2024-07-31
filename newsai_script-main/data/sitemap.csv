@@ -2149,6 +2149,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/holiday-virtual-training-spec
 pragmaticworks.com,https://pragmaticworks.com/pl-300-microsoft-power-bi-data-analyst-review,2024-07-09,pl 300 microsoft power bi data analyst review,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-network-monitor,2023-03-28,what is azure network monitor,blog
 pragmaticworks.com,https://pragmaticworks.com/sql-server-stored-procedures,2023-08-29,sql server stored procedures,blog
+pragmaticworks.com,https://pragmaticworks.com/virtual-mentor,2024-07-31,virtual mentor,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/dax-cheat-sheet,2023-12-08,dax cheat sheet,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/creating-your-power-bi-reports-with-wow,2024-06-04,creating your power bi reports with wow,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-enlighten-waffle-chart,2023-03-28,power bi custom visuals enlighten waffle chart,blog
@@ -3548,7 +3549,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/choosing-to-model-in-power-bi
 pragmaticworks.com,https://pragmaticworks.com/events/dec-07-learn-with-the-nerds-data-engineering-in-microsoft-fabric-73,2024-03-14,dec 07 learn with the nerds data engineering in microsoft fabric 73,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-azure-maps,2023-03-28,introducing azure maps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/who-is-kim-stinehour,2024-04-09,who is kim stinehour,blog
-pragmaticworks.com,https://pragmaticworks.com/virtual-mentor,2024-07-15,virtual mentor,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/monitor-your-training-investment-with-our-management-portal,2023-03-28,monitor your training investment with our management portal,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/introduction-to-azure-sql-database,2024-07-03,introduction to azure sql database,blog
 pragmaticworks.com,https://pragmaticworks.com/robotic-process-automation-rpa-in-a-day,2023-08-07,robotic process automation rpa in a day,blog
@@ -4228,7 +4228,7 @@ datasavvy.me,https://datasavvy.me/2022/03/21/calling-the-intercom-api-with-power
 datasavvy.me,https://datasavvy.me/2022/02/22/check-if-file-exists-before-deploying-sql-script-to-azure-sql-managed-instance-in-azure-release-pipelines/,2022-02-22,check if file exists before deploying sql script to azure sql managed instance in azure release pipelines,blog
 datasavvy.me,https://datasavvy.me/2022/01/06/looking-at-activity-queue-times-from-azure-data-factory-with-log-analytics/,2022-01-07,looking at activity queue times from azure data factory with log analytics,blog
 datasavvy.me,https://datasavvy.me/2021/12/30/when-you-cant-change-the-connected-git-repo-on-adf/,2021-12-29,when you cant change the connected git repo on adf,blog
-datasavvy.me,https://datasavvy.me/2021/12/07/copying-large-files-from-sharepoint-online/,2023-04-11,copying large files from sharepoint online,blog
+datasavvy.me,https://datasavvy.me/2021/12/07/copying-large-files-from-sharepoint-online/,2024-07-29,copying large files from sharepoint online,blog
 datasavvy.me,https://datasavvy.me/2021/11/28/what-are-those-new-buttons-under-tab-order-in-power-bi/,2021-11-29,what are those new buttons under tab order in power bi,blog
 datasavvy.me,https://datasavvy.me/2021/10/14/power-bi-maps-and-publish-to-web/,2021-10-13,power bi maps and publish to web,blog
 datasavvy.me,https://datasavvy.me/2021/09/30/connect-excel-to-a-power-bi-dataset-in-a-premium-workspace-with-a-b2b-user/,2023-04-21,connect excel to a power bi dataset in a premium workspace with a b2b user,blog
@@ -4385,7 +4385,7 @@ datasavvy.me,https://datasavvy.me/2013/08/16/im-speaking-at-sql-saturday-190-in-
 datasavvy.me,https://datasavvy.me/2013/07/03/im-speaking-at-sqlsaturday-236-in-st-louis/,2013-07-03,im speaking at sqlsaturday 236 in st louis,blog
 datasavvy.me,https://datasavvy.me/2013/06/30/links-for-excel-data-explorer/,2013-06-30,links for excel data explorer,blog
 datasavvy.me,https://datasavvy.me/2013/03/24/im-speaking-at-sql-saturday-197/,2013-03-24,im speaking at sql saturday 197,blog
-datasavvy.me,https://datasavvy.me,2024-07-23,,blog
+datasavvy.me,https://datasavvy.me,2024-07-29,,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/fabric-dataflows-support-service-principal-auth/,2024-07-09,fabric dataflows support service principal auth,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2024-07-09,delta lake v3 announced,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2024-07-09,5 new features in microsoft fabric with july 2023 update,blog
@@ -4558,11 +4558,11 @@ GuyInACube,https://www.youtube.com/watch?v=Hpx52kOodPc,2023-04-05,Setup a Revers
 GuyInACube,https://www.youtube.com/watch?v=k280CpPKJgc,2023-04-04,Convert CSV to Parquet using pySpark in Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=gnTaUbIMfyM,2023-04-01,"REPLAY Power BI tips from the Pros - LIVE (April 1, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=X_1tBbPwBMg,2023-03-29,Switch a Power BI Report&#39;s dataset without needing Premium!,youtube
-GuyInACube,https://www.youtube.com/watch?v=heY92V11knc,2023-03-25,REPLAY Power BI Adoption and More Q&amp;A with Melissa Coates and Matthew Roche!,youtube
 GuyInACube,https://www.youtube.com/watch?v=twgsMDuwOuo,2023-03-23,Visually see where you BROKE the fold in Power Query,youtube
 GuyInACube,https://www.youtube.com/watch?v=fh8HpSNNP30,2023-03-22,Checking out the new Power BI RLS Editor,youtube
 GuyInACube,https://www.youtube.com/watch?v=yvV6z6OInEI,2023-03-21,What&#39;s a Junk Dimension and when should you use it?,youtube
 GuyInACube,https://www.youtube.com/watch?v=zJopprZC-bE,2023-03-16,How do THIN reports work with Power BI Deployment Pipelines?,youtube
+GuyInACube,https://www.youtube.com/watch?v=k-4Oud9jkuw,2023-03-09,Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload),youtube
 GuyInACube,https://www.youtube.com/watch?v=k-4Oud9jkuw,2023-03-09,Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload),youtube
 GuyInACube,https://www.youtube.com/watch?v=YOWxvT5XLoc,2023-03-08,The POWER of Microsoft Lists and Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=9SprbLQpW8I,2023-03-07,Start Learning T-SQL for Azure Database and Azure Synapse,youtube
@@ -4917,8 +4917,3 @@ HowToPowerBI,https://www.youtube.com/watch?v=TVTxs_nEZPE,2023-11-03,Color INDICA
 HowToPowerBI,https://www.youtube.com/watch?v=nxvapCD2DoU,2023-11-01,Visualizing Status Tracking Data in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=QOcP5OvSwlI,2023-10-25,Building SVG Charts in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=AXyVldDPgKU,2023-10-23,Improve UI with Animated ARROWS for Power BI Report #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=LIbPQfACfKY,2023-10-18,Exploring the SEMANTIC MODEL in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=-_ie2ApK_rc,2023-09-30,ADDITIONAL Indicators for a BAR Chart in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=MbPmCr4tfvk,2023-09-20,The ART of Subtle ANIMATION in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=e2CLS37OYiM,2023-09-19,IN-BETWEEN custom LABLES in a BAR CHART #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vfKxcGmw1sE,2023-09-17,Get MORE out of Your BAR CHARTS in Power BI,youtube
