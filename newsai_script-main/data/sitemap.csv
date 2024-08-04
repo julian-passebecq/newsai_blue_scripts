@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-08-01,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-08-04,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -404,7 +404,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/07/22/initial-tests-of-gith
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/25/additional-security-tests-when-using-github-for-microsoft-fabric-git-integration/,2024-07-25,additional security tests when using github for microsoft fabric git integration,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2023/10/25/ci-cd-for-microsoft-fabric-data-warehouses-using-yaml-pipelines/,2024-07-25,ci cd for microsoft fabric data warehouses using yaml pipelines,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/29/security-considerations-when-using-github-with-microsoft-fabric-git-integration/,2024-07-29,security considerations when using github with microsoft fabric git integration,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/08/01/ci-cd-for-microsoft-fabric-data-warehouses-using-github-actions/,2024-08-01,ci cd for microsoft fabric data warehouses using github actions,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/08/01/ci-cd-for-microsoft-fabric-data-warehouses-using-github-actions/,2024-08-04,ci cd for microsoft fabric data warehouses using github actions,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -4930,3 +4930,8 @@ HowToPowerBI,https://www.youtube.com/watch?v=oa0sBSJBFe0,2023-09-10,A VISUAL Eve
 HowToPowerBI,https://www.youtube.com/watch?v=2YqwBqc8UIw,2023-09-09,Different PEOPLE = Different KPIs in Power BI #shorts,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=sr9IIes9jQY,2023-08-29,Training for Power BI Business Users | SNEAK PEEK!,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=NqlgTXCfqSs,2023-08-22,Automatically select KPIs based on the USER | Mastering UX in Power BI Report Design,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=UOATfz00WYg,2023-08-21,Avoid this mistake when working with PERCENTAGES | Weighted Average #analytics   #shorts,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=vvqnRo4OdkY,2023-08-18,"DAX Basics: Calculated Column, MEASURES &amp; Iterators |  Power BI Part 4 #PowerBI #dax #shorts",youtube
+HowToPowerBI,https://www.youtube.com/watch?v=4gzMi57puMY,2023-08-13,🔎 DAX Basics:  Demystifying Variables |  Power BI Part 3 #PowerBI #design #shorts,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=4N6jOympJRU,2023-08-11,DAX Basics:  CONTEXT Transition |  Power BI Part 2 #PowerBI #design #shorts,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=1t7mXIQIMe4,2023-08-09,DAX Basics: Filter CONTEXT &amp; Calculate |  Power BI Part 1 #PowerBI #design #shorts,youtube
