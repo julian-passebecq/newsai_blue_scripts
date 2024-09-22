@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-21,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-22,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -374,7 +374,6 @@ www.kevinrchant.com,https://www.kevinrchant.com/2023/09/06/microsoft-fabric-git-
 www.kevinrchant.com,https://www.kevinrchant.com/2024/02/02/four-simple-truths-about-the-dp-600-exam/,2024-06-03,four simple truths about the dp 600 exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/06/11/update-fabric-deployment-pipeline-stages-with-deploymentpipelines-deployall-and-yaml-pipelines/,2024-06-11,update fabric deployment pipeline stages with deploymentpipelines deployall and yaml pipelines,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/03/fabric-workloads-and-other-items-currently-covered-in-the-dp-600-exam/,2024-07-03,fabric workloads and other items currently covered in the dp 600 exam,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2023/10/06/recommended-microsoft-learn-material-for-microsoft-fabric/,2024-07-05,recommended microsoft learn material for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/05/10/first-impressions-of-the-microsoft-fabric-security-white-paper/,2024-07-09,first impressions of the microsoft fabric security white paper,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/09/t-sql-tuesday-176-advice-i-would-give-past-me-when-starting-my-first-data-platform-job/,2024-07-09,t sql tuesday 176 advice i would give past me when starting my first data platform job,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/15/from-power-view-to-microsoft-fabric/,2024-07-15,from power view to microsoft fabric,blog
@@ -413,6 +412,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/09/16/presenting-at-datasco
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-09-16,thoughts about gaining the fabric analytics engineer associate certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-09-16,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2023/12/20/current-certification-recommendations-for-microsoft-fabric-enthusiasts/,2024-09-21,current certification recommendations for microsoft fabric enthusiasts,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2023/10/06/recommended-microsoft-learn-material-for-microsoft-fabric/,2024-09-22,recommended microsoft learn material for microsoft fabric,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -4246,8 +4246,8 @@ data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advan
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi,blog
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
 data-marc.com,https://data-marc.com,2024-09-20,,blog
-www.data-traveling.com,https://www.data-traveling.com/articles,2024-08-10,articles,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-08-10,microsoft fabric admin how to create multiple workspaces using python,blog
+www.data-traveling.com,https://www.data-traveling.com/articles,2024-09-22,articles,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-09-22,microsoft fabric admin how to create multiple workspaces using python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-switch-report-live-connection-using-power-bi-developer-mode,2024-08-05,how to switch report live connection using power bi developer mode,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-06-16,quarter in power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/performance-impact-of-visual-calculations-using-directquery-mode-in-power-bi,2024-03-21,performance impact of visual calculations using directquery mode in power bi,blog
@@ -4853,11 +4853,11 @@ GuyInACube,https://www.youtube.com/watch?v=ujhCadWe2YI,2021-10-06,How to show 5 
 GuyInACube,https://www.youtube.com/watch?v=eqO4wFZQOPc,2021-09-29,Finding the lowest value and highlighting in DAX | Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=3gpXMMRJjw8,2021-09-23,DAX! Uggg - Where do you start? | Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=_j0iTUo2HT0,2021-09-22,One Click Calculation Group in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=0iLSyCel6yw,2021-08-26,5 Guy in a Cube tips to make BETTER VIDEO!,youtube
-GuyInACube,https://www.youtube.com/watch?v=2HYl3V5ak1U,2021-08-25,5 tips to LEVEL UP your public speaking or presentation skills,youtube
-GuyInACube,https://www.youtube.com/watch?v=uKSkMDEGM2I,2021-08-19,3 signs it&#39;s time to OPTIMIZE your Power BI report,youtube
-GuyInACube,https://www.youtube.com/watch?v=OYYnoMa-93g,2021-08-18,Can you refresh a single table in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZkL2jo3b_5M,2021-08-11,Exploring the Visio visual in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=etyVYsAcH6I,2021-09-15,How to show a name more than once in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=YEIKzeNCqGg,2021-09-09,Power BI XMLA Endpoint: Why you should care,youtube
+GuyInACube,https://www.youtube.com/watch?v=SmczqYv_rfY,2021-09-08,When is a date not a date in Power BI?,youtube
+GuyInACube,https://www.youtube.com/watch?v=R3Eqk1ZRUOY,2021-09-02,Case of the SLOW Power BI report: Hierarchies and RLS,youtube
+GuyInACube,https://www.youtube.com/watch?v=phlaZn54Mio,2021-09-01,CRUSHING requirements with Small Multiples in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=0iLSyCel6yw,2021-08-26,5 Guy in a Cube tips to make BETTER VIDEO!,youtube
 GuyInACube,https://www.youtube.com/watch?v=2HYl3V5ak1U,2021-08-25,5 tips to LEVEL UP your public speaking or presentation skills,youtube
 GuyInACube,https://www.youtube.com/watch?v=uKSkMDEGM2I,2021-08-19,3 signs it&#39;s time to OPTIMIZE your Power BI report,youtube
@@ -4999,3 +4999,8 @@ HowToPowerBI,https://www.youtube.com/watch?v=rH2SzF702Bw,2024-04-17,Power BI Rep
 HowToPowerBI,https://www.youtube.com/watch?v=BxcHdwF7_1s,2024-04-14,THE BEST way to add IMAGES from OneDrive &amp; SharePoint in Power BI,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=5Ohp79PLlM8,2024-04-04,"Complete Project with Power BI, Power Apps, Power Automate and Dataverse",youtube
 HowToPowerBI,https://www.youtube.com/watch?v=GkDOIRYiGFg,2024-03-24,GET Your DREAM Power BI Job,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=ZWooHoshXv4,2024-02-21,DAX REVOLUTION!? Visual Calculations in Power BI,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=vyHRHTN47ik,2024-01-26,Power BI Quick Report Makeover  #shorts #powerbi #design,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=hvY6SJrq3Ys,2024-01-24,3 Hacks to Work Faster in Power BI,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=mWPmKKgLFGw,2024-01-15,Power BI Report Makeover | Free Download  #shorts #powerbi #design,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=NcoMymAekhE,2024-01-11,Power BI Report Makeover | Combining All New Visualization Features,youtube
