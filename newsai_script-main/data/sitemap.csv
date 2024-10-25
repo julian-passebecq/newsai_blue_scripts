@@ -1,9 +1,8 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-24,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-25,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2019/10/21/guidelines-for-deploying-big-data-clusters-using-a-visual-studio-subscription/,2019-10-21,guidelines for deploying big data clusters using a visual studio subscription,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/23/using-azure-data-studio-insiders-build/,2019-10-23,using azure data studio insiders build,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/28/being-sql-server-product-owner/,2019-10-28,being sql server product owner,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/11/12/t-sql-tuesday-120-severely-neglected-index/,2019-11-12,t sql tuesday 120 severely neglected index,blog
@@ -143,7 +142,6 @@ www.kevinrchant.com,https://www.kevinrchant.com/2019/04/01/current-sql-server-20
 www.kevinrchant.com,https://www.kevinrchant.com/2019/12/05/maintaining-larger-sql-server-databases-recap/,2021-06-29,maintaining larger sql server databases recap,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/02/24/tips-for-dealing-with-large-sql-server-scripts/,2021-06-29,tips for dealing with large sql server scripts,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/01/08/lessons-learned-by-a-time-travelling-sql-server-dba-part-one-the-past/,2021-06-29,lessons learned by a time travelling sql server dba part one the past,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2019/05/08/current-sql-server-2019-big-data-clusters-learning-resources/,2021-06-29,current sql server 2019 big data clusters learning resources,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/01/24/study-tips-for-sql-server-and-azure-exams/,2021-06-29,study tips for sql server and azure exams,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/07/01/testing-sql-server-assessment-in-azure-data-studio/,2021-06-30,testing sql server assessment in azure data studio,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/01/15/lessons-learned-by-a-time-travelling-sql-server-dba-part-two-the-future/,2021-06-30,lessons learned by a time travelling sql server dba part two the future,blog
@@ -419,6 +417,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/10/09/will-the-new-dp-700-m
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/22/fabricators-guide-to-database-projects-for-microsoft-fabric-data-warehouses/,2024-10-22,fabricators guide to database projects for microsoft fabric data warehouses,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/09/30/about-the-dp-700-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,about the dp 700 exam for the new microsoft fabric data engineering certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/03/checklist-for-the-dp-700-beta-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,checklist for the dp 700 beta exam for the new microsoft fabric data engineering certification,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/10/25/five-simple-facts-about-the-dp-600-exam-updates/,2024-10-25,five simple facts about the dp 600 exam updates,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -488,7 +487,7 @@ thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-ca
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-08-29,power bi or fabric monitoring,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/08/29/power-bi-vision/,2024-08-29,power bi vision,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/10/01/power-bi-gathering-the-troops/,2024-10-01,power bi gathering the troops,blog
-www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-10-13,running llms locally the getting started windows stack,blog
+www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-10-25,running llms locally the getting started windows stack,blog
 www.oliviertravers.com,https://www.oliviertravers.com/running-ai-image-generation-on-your-windows-pc-beginner-friendly-starter-pack/,2024-09-08,running ai image generation on your windows pc beginner friendly starter pack,blog
 www.oliviertravers.com,https://www.oliviertravers.com/ebook-collection-search-everything-calibre/,2024-08-01,ebook collection search everything calibre,blog
 www.oliviertravers.com,https://www.oliviertravers.com/launchy-everything-dopus/,2024-08-01,launchy everything dopus,blog
@@ -2424,6 +2423,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/5-questions-we-can-answer-wit
 pragmaticworks.com,https://pragmaticworks.com/blog/inner-vs.-outer-in-sql,2023-11-11,inner vs. outer in sql,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-recognized-as-finalist-for-2020-microsoft-power-bi-powerapps-partner-of-the-year-award,2023-10-03,pragmatic works recognized as finalist for 2020 microsoft power bi powerapps partner of the year award,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/why-i-love-working-at-pragmatic-works-during-the-holidays,2023-03-16,why i love working at pragmatic works during the holidays,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/new-updates-to-the-matrix-visual-in-power-bi-may-2024-update,2024-10-25,new updates to the matrix visual in power bi may 2024 update,blog
 pragmaticworks.com,https://pragmaticworks.com/events/sep-17-copilot-for-microsoft-365-bootcamp-166,2024-07-17,sep 17 copilot for microsoft 365 bootcamp 166,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/bookings-brilliance-mastering-microsoft-bookings,2024-07-03,bookings brilliance mastering microsoft bookings,blog
 pragmaticworks.com,https://pragmaticworks.com/microsoft-teams-for-the-consumer,2023-08-29,microsoft teams for the consumer,blog
@@ -2952,6 +2952,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/easily-handle-transform-and-l
 pragmaticworks.com,https://pragmaticworks.com/events/may-13-virtual-advanced-data-modeling-100,2024-03-14,may 13 virtual advanced data modeling 100,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/intro-to-azure-database-for-maria-db,2023-03-28,intro to azure database for maria db,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/advanced-data-shaping-with-power-bi,2024-07-03,advanced data shaping with power bi,blog
+pragmaticworks.com,https://pragmaticworks.com/en/guides/dax-sum-function,2024-10-25,dax sum function,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-april-2018,2023-03-28,power bi monthly digest april 2018,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/the-best-kept-secret-in-the-azure-cloud,2023-03-28,the best kept secret in the azure cloud,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/data-governance-with-power-bi-premium,2023-03-28,data governance with power bi premium,blog
@@ -3641,7 +3642,6 @@ pragmaticworks.com,https://pragmaticworks.com/2/blog/power-apps-display-forms-an
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-mdx,2023-08-29,introduction to mdx,blog
 pragmaticworks.com,https://pragmaticworks.com/events/may-17-virtual-power-bi-administration-104,2024-03-14,may 17 virtual power bi administration 104,blog
 pragmaticworks.com,https://pragmaticworks.com/events/nov-21-virtual-advanced-data-visualizations-157,2024-07-12,nov 21 virtual advanced data visualizations 157,blog
-pragmaticworks.com,https://pragmaticworks.com/paginated-reports-in-power-bi-2024-registration,2024-10-24,paginated reports in power bi 2024 registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-timeline-storyteller,2023-03-28,power bi custom visuals timeline storyteller,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/modern-excel-analyst-in-a-day,2024-07-03,modern excel analyst in a day,blog
 pragmaticworks.com,https://pragmaticworks.com/power-bi-for-finance-mastering-power-bi-for-financial-insights,2024-02-22,power bi for finance mastering power bi for financial insights,blog
@@ -3973,6 +3973,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/preparing-for-the-new-azure-e
 pragmaticworks.com,https://pragmaticworks.com/blog/intro-to-azure-data-lake-store-gen-2,2023-03-28,intro to azure data lake store gen 2,blog
 pragmaticworks.com,https://pragmaticworks.com/events/oct-12-learn-with-the-nerds-power-platform-co-pilot-and-ai-builder-34,2024-03-14,oct 12 learn with the nerds power platform co pilot and ai builder 34,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsofts-underwater-cloud,2023-03-28,microsofts underwater cloud,blog
+pragmaticworks.com,https://pragmaticworks.com/paginated-reports-in-power-bi-2024-registration,2024-10-25,paginated reports in power bi 2024 registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/this-week-in-data-the-importance-of-data-testing,2024-08-27,this week in data the importance of data testing,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-rpa-with-power-automate-desktop,2023-08-29,learn with the nerds rpa with power automate desktop,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-databricks-community-edition,2023-03-28,what is databricks community edition,blog
@@ -4116,6 +4117,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses/introduction-to-azure-sql-
 pragmaticworks.com,https://pragmaticworks.com/blog/a-look-back-at-2014,2024-06-07,a look back at 2014,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/administering-business-intelligence,2024-07-03,administering business intelligence,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-beginner-to-pro-part-1-data-cleansing-and-shaping,2024-08-27,power bi beginner to pro part 1 data cleansing and shaping,blog
+pragmaticworks.com,https://pragmaticworks.com/events/nov-21-paginated-reports-in-power-bi-2024-edition-196,2024-10-25,nov 21 paginated reports in power bi 2024 edition 196,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/power-apps-problem-design-solution,2024-07-08,power apps problem design solution,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/most-important-components-of-azure-data-factory,2023-03-28,most important components of azure data factory,blog
 pragmaticworks.com,https://pragmaticworks.com/events/jul-15-virtual-advanced-power-bi-bootcamp-117,2024-04-18,jul 15 virtual advanced power bi bootcamp 117,blog
@@ -4836,7 +4838,6 @@ GuyInACube,https://www.youtube.com/watch?v=wDfcX3EPZL0,2022-07-26,FAST - Billion
 GuyInACube,https://www.youtube.com/watch?v=tfTrohtZXtc,2022-07-23,"REPLAY Power BI tips from the Pros - LIVE (July 23, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=bwbWQL8zjx0,2022-07-21,The most UNDERUSED feature in Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=L7dMVFDgs7Q,2022-07-19,Intro to aggregates in T-SQL,youtube
-GuyInACube,https://www.youtube.com/watch?v=3_vWXYZk1TM,2022-07-16,"REPLAY Power BI tips from the Pros - LIVE (July 16, 2022) (Member Chat 2nd Half)",youtube
 GuyInACube,https://www.youtube.com/watch?v=vTEaSRyVPxI,2022-07-14,Is it a KNOWN ISSUE in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=XA5twJ2wLd0,2022-07-13,Select All items for Parameters in Power BI Paginated reports,youtube
 GuyInACube,https://www.youtube.com/watch?v=ukVlPeQ-yNc,2022-07-07,How I learn things,youtube
@@ -4844,20 +4845,20 @@ GuyInACube,https://www.youtube.com/watch?v=XE_58akjXEc,2022-07-02,"REPLAY Power 
 GuyInACube,https://www.youtube.com/watch?v=ZEcQ13TaIWA,2022-06-28,What&#39;s up with the different JOINS in Azure SQL and Azure Synapse?,youtube
 GuyInACube,https://www.youtube.com/watch?v=IhQVOS34QKA,2022-06-23,Why can&#39;t Power BI connect to my cloud source???,youtube
 GuyInACube,https://www.youtube.com/watch?v=Wvqx4I2cMrM,2022-06-22,From Decomposition Tree to Details in Power BI!!!,youtube
-GuyInACube,https://www.youtube.com/watch?v=zQnyy2-58Ns,2022-06-21,Modern Data Lakehouse? Where do you even start??? Azure Synapse of course!,youtube
-GuyInACube,https://www.youtube.com/watch?v=x1xMxRXQ2So,2022-06-16,Publish from Power BI Desktop for External Users (Unsupported),youtube
-GuyInACube,https://www.youtube.com/watch?v=67WrcH4pFnI,2022-06-15,What tool do you use to optimize your Power BI dataset?,youtube
 GuyInACube,https://www.youtube.com/watch?v=iBwmMklI2Ac,2022-06-14,What are the main tools for Azure Synapse and SQL???,youtube
 GuyInACube,https://www.youtube.com/watch?v=Vp9BQUXyJjY,2022-06-11,"REPLAY Power BI tips from the Pros - LIVE (June 11, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=_EDxNDuF9uE,2022-06-04,"REPLAY Power BI tips from the Pros - LIVE (June 4, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=o2EFbdRZOAU,2022-06-02,Answering your datamart questions,youtube
 GuyInACube,https://www.youtube.com/watch?v=Q_fKhmwRifo,2022-05-31,Writing your first SQL Statement!,youtube
 GuyInACube,https://www.youtube.com/watch?v=UzDfhse9vBI,2022-05-28,"REPLAY Power BI tips from the Pros - LIVE (May 28, 2022)",youtube
+GuyInACube,https://www.youtube.com/watch?v=LKzIkr1NaOM,2022-05-26,Reduce the queries being sent with Incremental Refresh in Power BI!,youtube
+GuyInACube,https://www.youtube.com/watch?v=ZJzCkxv5wxg,2022-05-25,Exploring the preview of datamart in Power BI!,youtube
+GuyInACube,https://www.youtube.com/watch?v=tWFAxOI7CF0,2022-05-24,Getting started with Azure Synapse Analytics,youtube
+GuyInACube,https://www.youtube.com/watch?v=8M2VIPLdF3A,2022-05-18,Another 30-Day Query Folding challenge!!!,youtube
+GuyInACube,https://www.youtube.com/watch?v=ZJzCkxv5wxg,2022-05-25,Exploring the preview of datamart in Power BI!,youtube
 GuyInACube,https://www.youtube.com/watch?v=tWFAxOI7CF0,2022-05-24,Getting started with Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=8M2VIPLdF3A,2022-05-18,Another 30-Day Query Folding challenge!!!,youtube
 GuyInACube,https://www.youtube.com/watch?v=0duJpevXlaA,2022-05-14,"REPLAY Power BI tips from the Pros - LIVE (May 14, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=lTkWAfrMwOg,2022-05-11,Why isn&#39;t my Agg hitting when using DISTINCTCOUNT in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=-e3jNYl9AJ4,2022-05-10,How to make SQL Pools even faster in Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=lTkWAfrMwOg,2022-05-11,Why isn&#39;t my Agg hitting when using DISTINCTCOUNT in Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=-e3jNYl9AJ4,2022-05-10,How to make SQL Pools even faster in Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=utz9NQZyZ1A,2022-05-07,"REPLAY Power BI tips from the Pros - LIVE (May 7, 2022)",youtube
@@ -4873,11 +4874,11 @@ GuyInACube,https://www.youtube.com/watch?v=_p5GcjYMHq0,2022-04-09,"REPLAY Power 
 GuyInACube,https://www.youtube.com/watch?v=sXn-QZqLD-8,2022-04-07,Nothing selected in Power BI Slicer? Then don&#39;t show data!,youtube
 GuyInACube,https://www.youtube.com/watch?v=-jvnjx-264c,2022-04-06,Composite models in Power BI and Storage modes - what to pick???,youtube
 GuyInACube,https://www.youtube.com/watch?v=ISacusJ1Dss,2022-03-31,Use this Power BI feature to display custom message or titles,youtube
+GuyInACube,https://www.youtube.com/watch?v=_zYvybVMk7k,2022-03-30,Try limiting rows when creating reporting for big data in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=zdJyOQP8jXw,2022-03-26,"REPLAY Power BI tips from the Pros - LIVE (Mar 26, 2022)",youtube
+GuyInACube,https://www.youtube.com/watch?v=q5nxFcvrnqw,2022-03-24,Who doesn&#39;t like FREE Power BI training??? (2022),youtube
 GuyInACube,https://www.youtube.com/watch?v=twsuBaiPaCk,2022-03-23,Can Patrick handle the challenge???,youtube
 GuyInACube,https://www.youtube.com/watch?v=hv8U_z-y-1s,2022-03-19,"REPLAY Power BI tips from the Pros - LIVE (Mar 19, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=gyOKFSVYEew,2022-03-17,Some tips for your data labels in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=t6_uRHLWiMQ,2022-03-16,"So, we just wait???",youtube
-GuyInACube,https://www.youtube.com/watch?v=L-wqwzj0-Xo,2022-03-10,Revisiting a Power BI solution with Dynamic M Parameters,youtube
 GuyInACube,https://www.youtube.com/watch?v=gyOKFSVYEew,2022-03-17,Some tips for your data labels in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=t6_uRHLWiMQ,2022-03-16,"So, we just wait???",youtube
 GuyInACube,https://www.youtube.com/watch?v=L-wqwzj0-Xo,2022-03-10,Revisiting a Power BI solution with Dynamic M Parameters,youtube
@@ -5064,3 +5065,8 @@ HowToPowerBI,https://www.youtube.com/watch?v=MJ0d9niKRJk,2024-05-15,Extra RANKIN
 HowToPowerBI,https://www.youtube.com/watch?v=lfqPpUdtTss,2024-05-14,Power BI Themes with CUSTOM ICONS 🚀 ❤️,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=-rQbD5cTEyI,2024-05-13,Power BI Report Design 🖤,youtube
 HowToPowerBI,https://www.youtube.com/watch?v=Aq0ilbs7HPA,2024-05-09,Overlap feature in Power BI | 3 application ideas,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=DBRz0Rm5nGk,2024-05-08,Power BI Report Makeover✌️😎,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=6cKz6hbRdT8,2024-05-07,Sales Analytics in Power BI 🖤,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=2TSnA_58Ml4,2024-05-06,🏋️ Native dumbbell chart in Power BI | Overlap,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=FoEnJ35yG8g,2024-05-04,Dynamically Enable and Disable Slicers in Power BI,youtube
+HowToPowerBI,https://www.youtube.com/watch?v=OVt_jBicnS0,2024-05-01,Simple report pages in Power BI don‘t have to look boring ✌️😎,youtube
