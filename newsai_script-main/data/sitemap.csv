@@ -1999,47 +1999,47 @@ www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-in-dax-explained
 www.sqlbi.com,https://www.sqlbi.com/articles/impact-of-data-types-in-dax-arithmetical-calculations/,2024-10-30,impact of data types in dax arithmetical calculations,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-custom-visuals-in-power-bi-with-dax/,2024-10-30,creating custom visuals in power bi with dax,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/using-weekly-calendars-in-power-bi/,2024-10-30,using weekly calendars in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi,blog
 en.brunner.bi,https://en.brunner.bi/post/hybrid-tables-in-power-bi-with-datacoveragedefinition,2024-05-10,hybrid tables in power bi with datacoveragedefinition,blog
-en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-08-22,removing unused columns and measures in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2024-05-09,new ways to optimize shared datasets in power bi 1 2 the offline approach 1,blog
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query,blog
-en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant,blog
-en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2024-07-15,benefits of using dax info functions instead of the xmla endpoint in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query,blog
-en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator,blog
-en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3,blog
-en.brunner.bi,https://en.brunner.bi/post/finding-errors-in-dataflows-and-powerquery,2024-05-09,finding errors in dataflows and powerquery,blog
-en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service,blog
-en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1,blog
-en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration,blog
-en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports,blog
-en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2,blog
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-analyze-best-practices-in-power-bi-1,2024-07-17,new ways to analyze best practices in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate,blog
-en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1,blog
-en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric,blog
-en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/dynamic-tooltip-pages-in-microsoft-power-bi-for-measure-columns,2024-06-28,dynamic tooltip pages in microsoft power bi for measure columns,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service,blog
-en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis,blog
 en.brunner.bi,https://en.brunner.bi/post/query-folding-and-data-types-from-snowflake-in-power-bi,2024-07-17,query folding and data types from snowflake in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-in-power-bi-while-keeping-the-report-interactive,2024-05-09,how to force users to select a filter in power bi while keeping the report interactive,blog
+en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1,blog
 en.brunner.bi,https://en.brunner.bi/post/how-to-fix-duration-data-types-in-power-bi-dataflows-1,2024-05-09,how to fix duration data types in power bi dataflows 1,blog
+en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2,blog
 en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2024-05-09,allocating amounts using lists in power query,blog
-en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits,blog
 en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2024-05-09,changing data types that do not break query folding in power query power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1,blog
-en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service,blog
 en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2024-10-29,measure killer feedback 1,blog
+en.brunner.bi,https://en.brunner.bi/post/finding-errors-in-dataflows-and-powerquery,2024-05-09,finding errors in dataflows and powerquery,blog
+en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1,blog
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2024-05-09,new ways to optimize shared datasets in power bi 1 2 the offline approach 1,blog
+en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium,blog
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-analyze-best-practices-in-power-bi-1,2024-07-17,new ways to analyze best practices in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric,blog
+en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate,blog
+en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query,blog
+en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1,blog
+en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant,blog
+en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-in-power-bi-while-keeping-the-report-interactive,2024-05-09,how to force users to select a filter in power bi while keeping the report interactive,blog
+en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports,blog
+en.brunner.bi,https://en.brunner.bi/post/dynamic-tooltip-pages-in-microsoft-power-bi-for-measure-columns,2024-06-28,dynamic tooltip pages in microsoft power bi for measure columns,blog
+en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1,blog
+en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3,blog
+en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2024-07-15,benefits of using dax info functions instead of the xmla endpoint in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-08-22,removing unused columns and measures in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator,blog
+en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service,blog
+en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/best-way-to-start-learning-azure,2023-03-28,best way to start learning azure,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/copilot-in-microsoft-whiteboard,2024-07-03,copilot in microsoft whiteboard,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-are-iot-hub-event-hub-and-event-grid-related,2023-03-28,how are iot hub event hub and event grid related,blog
@@ -2835,6 +2835,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/changing-azure-sql-dw-service
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-microsoft-project-beginner-to-pro-recorded-live-event,2024-03-27,learn with the nerds microsoft project beginner to pro recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/learn-with-the-nerds-building-your-first-canvas-power-app-recorded-live-event,2024-07-03,learn with the nerds building your first canvas power app recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/were-excited-to-announce-our-new-course-ssis-in-the-cloud,2023-03-28,were excited to announce our new course ssis in the cloud,blog
+pragmaticworks.com,https://pragmaticworks.com/events/mar-24-advanced-power-pages-bootcamp-197,2024-11-01,mar 24 advanced power pages bootcamp 197,blog
 pragmaticworks.com,https://pragmaticworks.com/events/jun-10-virtual-power-apps-bootcamp-109,2024-03-14,jun 10 virtual power apps bootcamp 109,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-pipelines-and-activities,2023-03-28,azure data factory pipelines and activities,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-active-directory-and-resource-groups,2023-03-28,azure active directory and resource groups,blog
@@ -3337,7 +3338,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-team-proj
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-recognized-as-finalist-for-2020-microsoft-power-bi-powerapps-partner-of-the-year-award-0,2023-10-03,pragmatic works recognized as finalist for 2020 microsoft power bi powerapps partner of the year award 0,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/introduction-to-sql-server-window-functions,2024-07-03,introduction to sql server window functions,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/copilot-in-microsoft-teams,2024-07-03,copilot in microsoft teams,blog
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-our-new-course-azure-logic-apps,2023-03-28,introducing our new course azure logic apps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through-1,2023-03-16,unique ask for drill through 1,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/grouping-and-binning-in-power-bi-2,2023-11-10,grouping and binning in power bi 2,blog
@@ -3353,6 +3353,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/why-choose-azure-over-aws,202
 pragmaticworks.com,https://pragmaticworks.com/blog/getting-started-with-real-time-intelligence-in-microsoft-fabric,2024-09-29,getting started with real time intelligence in microsoft fabric,blog
 pragmaticworks.com,https://pragmaticworks.com/events/feb-20-virtual-power-bi-paginated-reports-bootcamp-58,2024-03-14,feb 20 virtual power bi paginated reports bootcamp 58,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/a-walkthrough-of-azure-file-sync,2023-03-28,a walkthrough of azure file sync,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/using-conditional-formatting-in-power-bi,2024-11-01,using conditional formatting in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/enhancing-powerpoint-presentations-with-power-bi,2024-05-01,enhancing powerpoint presentations with power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/power-apps,2023-12-11,power apps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/sentryone-acquires-pragmatic-works-software,2024-03-19,sentryone acquires pragmatic works software,blog
@@ -3717,6 +3718,7 @@ pragmaticworks.com,https://pragmaticworks.com/advanced-power-automate,2023-08-07
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-impact-bubble-chart,2023-03-28,power bi custom visuals impact bubble chart,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/benefits-of-azure-sql-iaas-sql-server-agent-extension,2023-03-28,benefits of azure sql iaas sql server agent extension,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through,2023-03-28,unique ask for drill through,blog
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-table-sorter,2023-03-28,power bi custom visuals table sorter,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/learn-with-the-nerds-azure-data-factory-recorded-live-event,2024-07-03,learn with the nerds azure data factory recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/whats-going-on-in-january,2024-07-09,whats going on in january,blog
@@ -4317,9 +4319,9 @@ data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advan
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi,blog
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
 data-marc.com,https://data-marc.com,2024-10-24,,blog
-www.data-traveling.com,https://www.data-traveling.com/articles,2024-10-26,articles,blog
+www.data-traveling.com,https://www.data-traveling.com/articles,2024-11-01,articles,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/part-2-microsoft-fabric-admin-adding-entra-id-groups-to-workspaces-with-semantic-link-and-python,2024-11-01,part 2 microsoft fabric admin adding entra id groups to workspaces with semantic link and python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-first-thoughts-and-use-cases-on-using-terraform-for-infrastructure-as-code-iac,2024-09-29,microsoft fabric admin first thoughts and use cases on using terraform for infrastructure as code iac,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/part-2-microsoft-fabric-admin-adding-entra-id-groups-to-workspaces-with-semantic-link-and-python,2024-10-26,part 2 microsoft fabric admin adding entra id groups to workspaces with semantic link and python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-09-22,microsoft fabric admin how to create multiple workspaces using python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-switch-report-live-connection-using-power-bi-developer-mode,2024-08-05,how to switch report live connection using power bi developer mode,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-06-16,quarter in power bi,blog
@@ -4615,11 +4617,11 @@ GuyInACube,https://www.youtube.com/watch?v=RNd2MW3myWk,2024-05-18,"REPLAY Micros
 GuyInACube,https://www.youtube.com/watch?v=oamf3oztUAw,2024-05-15,Expert Tips for Managing OneLake Data Access in Microsoft Fabric,youtube
 GuyInACube,https://www.youtube.com/watch?v=zLnJpXVBPIU,2024-05-11,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Josh Caplan (May 11, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=xuEYxJ5gkGA,2024-05-09,Leverage RLS with Direct Lake in Microsoft Fabric without access to OneLake,youtube
+GuyInACube,https://www.youtube.com/watch?v=nDH0fqAyUf4,2024-05-08,Unleash Your Power BI Mobile Audience Potential with Automated layouts!,youtube
 GuyInACube,https://www.youtube.com/watch?v=R3vEFKtYfBI,2024-05-04,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (May 4, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=dEzq8LNcYdI,2024-05-02,Can&#39;t create a relationship? Time for a surrogate key in Power BI!,youtube
 GuyInACube,https://www.youtube.com/watch?v=otRpzOZ8CBs,2024-05-01,Getting creative with a Line Chart in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=iNm73rguVjY,2024-04-27,"REPLAY Microsoft Fabric / Power BI Q&amp;A w/ Kasper de Jonge (April 27, 2024)",youtube
-GuyInACube,https://www.youtube.com/watch?v=eqKvvbMPNTs,2024-04-20,"REPLAY Microsoft Fabric / Power BI Q&amp;A w/ Marco Russo LIVE (April 20, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=eqKvvbMPNTs,2024-04-20,"REPLAY Microsoft Fabric / Power BI Q&amp;A w/ Marco Russo LIVE (April 20, 2024)",youtube
 GuyInACube,https://www.youtube.com/watch?v=3WXwIC8j6Y8,2024-04-18,Wait?!? I can&#39;t conditionally format a Line Chart in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=zspWD9Cx1UI,2024-04-17,When Sorting Fails: Dynamic Formatting mistakes with Measures,youtube
@@ -4760,8 +4762,6 @@ GuyInACube,https://www.youtube.com/watch?v=twgsMDuwOuo,2023-03-23,Visually see w
 GuyInACube,https://www.youtube.com/watch?v=fh8HpSNNP30,2023-03-22,Checking out the new Power BI RLS Editor,youtube
 GuyInACube,https://www.youtube.com/watch?v=yvV6z6OInEI,2023-03-21,What&#39;s a Junk Dimension and when should you use it?,youtube
 GuyInACube,https://www.youtube.com/watch?v=zJopprZC-bE,2023-03-16,How do THIN reports work with Power BI Deployment Pipelines?,youtube
-GuyInACube,https://www.youtube.com/watch?v=9wLFlaaPJgk,2023-03-15,Art of the Possible with Power Platform and Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=k-4Oud9jkuw,2023-03-09,Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload),youtube
 GuyInACube,https://www.youtube.com/watch?v=YOWxvT5XLoc,2023-03-08,The POWER of Microsoft Lists and Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=9SprbLQpW8I,2023-03-07,Start Learning T-SQL for Azure Database and Azure Synapse,youtube
 GuyInACube,https://www.youtube.com/watch?v=leT_dkXwE1c,2023-03-02,The MAGIC of Microsoft Teams + Power BI,youtube
@@ -4772,8 +4772,6 @@ GuyInACube,https://www.youtube.com/watch?v=KrsNwegpqlk,2023-02-21,Checking out t
 GuyInACube,https://www.youtube.com/watch?v=zI4MV2vNVxY,2023-02-18,"REPLAY Power BI tips from the Pros - LIVE (Feb 18, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=58rLq8MF2mc,2023-02-15,Publish/Migrate your RDL files from Power BI Report Server to the service,youtube
 GuyInACube,https://www.youtube.com/watch?v=6KG-LogdI9g,2023-02-14,Provide data lake access with Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=XPuGOZdxX5s,2023-02-11,"REPLAY Power BI tips from the Pros - LIVE (Feb 11, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=cqqyAy5Cemc,2023-02-10,An Ode to a Pie Chart by ChatGPT,youtube
 GuyInACube,https://www.youtube.com/watch?v=wd2c1sjTENQ,2023-02-09,Guy in a Cube answers the web&#39;s most searched questions on Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=WXpxNpnE3D4,2023-02-08,Time to look at the new INDEX function in DAX and Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=ZKvpiOnwAK4,2023-02-07,Continuing the T-SQL journey with OVER and RANK,youtube
@@ -4784,12 +4782,16 @@ GuyInACube,https://www.youtube.com/watch?v=ayV1r2vFYnI,2023-01-31,Ready to be a 
 GuyInACube,https://www.youtube.com/watch?v=vT83hHmX-VM,2023-01-28,"REPLAY Power BI tips from the Pros - LIVE (Jan 28, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=WQGS48ZcdbE,2023-01-26,What do you want to see from Guy in a Cube? - Channel Update,youtube
 GuyInACube,https://www.youtube.com/watch?v=nMSuWbKUvAY,2023-01-25,What happens when you miss a refresh day with Power BI Incremental Refresh?,youtube
+GuyInACube,https://www.youtube.com/watch?v=nMSuWbKUvAY,2023-01-25,What happens when you miss a refresh day with Power BI Incremental Refresh?,youtube
 GuyInACube,https://www.youtube.com/watch?v=WgH2Wg_EUNg,2023-01-24,What the French Toast is a Slowly Changing Dimension???,youtube
 GuyInACube,https://www.youtube.com/watch?v=GzblE9HjouE,2023-01-21,"REPLAY Power BI tips from the Pros - LIVE (Jan 21, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=_ggNrxUcCS8,2023-01-18,Allow users to Show and Hide columns in a Power BI Paginated report!,youtube
 GuyInACube,https://www.youtube.com/watch?v=PsuxE6xExOw,2023-01-17,What is a Common Table Expression (CTE) and how do you use them?,youtube
-GuyInACube,https://www.youtube.com/watch?v=a-iA6EG9CzQ,2023-01-07,"REPLAY Starting 2023 w/ Marco Russo LIVE (Jan 7, 2023)",youtube
 GuyInACube,https://www.youtube.com/watch?v=_1QGTmtGcP8,2023-01-04,How to handle Aggregation tables with Averages in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=XkjJo7J8CyQ,2023-01-03,To Surrogate Key or Not...,youtube
+GuyInACube,https://www.youtube.com/watch?v=ey4ZVKWGZfc,2022-12-17,"REPLAY Power BI tips from the Pros - LIVE (Dec 17, 2022) - Charity Stream",youtube
+GuyInACube,https://www.youtube.com/watch?v=-xl-uhgzgEA,2022-12-15,Build a Slicer Panel in Power BI (2022/2023),youtube
+GuyInACube,https://www.youtube.com/watch?v=t3Zsdbr-_So,2022-12-14,A Power Query tip for you,youtube
 GuyInACube,https://www.youtube.com/watch?v=XkjJo7J8CyQ,2023-01-03,To Surrogate Key or Not...,youtube
 GuyInACube,https://www.youtube.com/watch?v=ey4ZVKWGZfc,2022-12-17,"REPLAY Power BI tips from the Pros - LIVE (Dec 17, 2022) - Charity Stream",youtube
 GuyInACube,https://www.youtube.com/watch?v=-xl-uhgzgEA,2022-12-15,Build a Slicer Panel in Power BI (2022/2023),youtube
@@ -4815,13 +4817,11 @@ GuyInACube,https://www.youtube.com/watch?v=OY9spncfp6I,2022-10-19,Why isn&#39;t 
 GuyInACube,https://www.youtube.com/watch?v=rzfmF9wORcQ,2022-10-18,Parameterize your Notebooks in Azure Synapse,youtube
 GuyInACube,https://www.youtube.com/watch?v=TRL162AkEVs,2022-10-15,"REPLAY Power BI tips from the Pros - LIVE (Oct 15, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=282mfZK6C1E,2022-10-13,Office 365 meet Power BI Desktop,youtube
-GuyInACube,https://www.youtube.com/watch?v=VExWJ6mXLD4,2022-10-12,Let Power Query write your SQL for you!,youtube
 GuyInACube,https://www.youtube.com/watch?v=ViIHJRTLJ0Y,2022-10-11,Overcoming a concatenation challenge in Azure Synapse,youtube
 GuyInACube,https://www.youtube.com/watch?v=N0UYKqMpmnQ,2022-10-06,A Power Query feature you may not know about!,youtube
 GuyInACube,https://www.youtube.com/watch?v=OAlys79j81Q,2022-10-05,Where do you add that new column in any analytics tool?,youtube
 GuyInACube,https://www.youtube.com/watch?v=uFk3ZJ7Jm0U,2022-10-04,"Save early, save often in Azure Synapse Studio",youtube
 GuyInACube,https://www.youtube.com/watch?v=He8xocxq1II,2022-10-01,"REPLAY Power BI tips from the Pros - LIVE w/ Kasper de Jonge (Oct 1, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=BUiUrv1qeXU,2022-09-28,Do you even need to use Power Query Functions?,youtube
 GuyInACube,https://www.youtube.com/watch?v=6aXO_zOMP1U,2022-09-27,Rounding out the lakehouse with the GOLD layer in Azure Synapse,youtube
 GuyInACube,https://www.youtube.com/watch?v=wJJ31G98aCM,2022-09-22,Answering your questions about the new App Experience!,youtube
 GuyInACube,https://www.youtube.com/watch?v=R23CrB8MYBk,2022-09-21,"REPLAY Power Platform Conference LIVE!!! (Sept 21, 2022)",youtube
@@ -4830,6 +4830,8 @@ GuyInACube,https://www.youtube.com/watch?v=OHto3FR5484,2022-09-20,Talking DATA e
 GuyInACube,https://www.youtube.com/watch?v=BLqJmp3CIHU,2022-09-17,"REPLAY Power BI tips from the Pros - LIVE (Sept 17, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=nchNa44o2D4,2022-09-15,Power BI Apps for multiple audiences has arrived!,youtube
 GuyInACube,https://www.youtube.com/watch?v=vI7kVVHxsiM,2022-09-14,What&#39;s the real size of your data model in Power BI?,youtube
+GuyInACube,https://www.youtube.com/watch?v=0qywSdK3qoU,2022-09-08,Are you thinking about your tooltips in Power BI?,youtube
+GuyInACube,https://www.youtube.com/watch?v=5ZjO1ImFmh4,2022-09-07,Automating your formatted tables in Power BI!,youtube
 GuyInACube,https://www.youtube.com/watch?v=0qywSdK3qoU,2022-09-08,Are you thinking about your tooltips in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=5ZjO1ImFmh4,2022-09-07,Automating your formatted tables in Power BI!,youtube
 GuyInACube,https://www.youtube.com/watch?v=2nzANkTY4IY,2022-09-03,"REPLAY Visualization Q&amp;A - LIVE w/ Alberto Cairo (Sept 3, 2022)",youtube
@@ -4845,22 +4847,21 @@ GuyInACube,https://www.youtube.com/watch?v=dTEmhPbtipc,2022-08-18,Get creative w
 GuyInACube,https://www.youtube.com/watch?v=HJgclrgFnls,2022-08-17,Refresh and NO DATA in my Power BI visuals???,youtube
 GuyInACube,https://www.youtube.com/watch?v=SPOQzcbTgvQ,2022-08-16,Get started with SPARK in Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=ksmNfa_K8GQ,2022-08-13,"REPLAY Power BI tips from the Pros - LIVE (August 13, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=0WfITrMl0hc,2022-08-11,Get feedback from your Power BI report users!,youtube
-GuyInACube,https://www.youtube.com/watch?v=338Fm-eSbQU,2022-08-10,You thought DAX? Alex shows you Dynamic M-M-Magic!,youtube
-GuyInACube,https://www.youtube.com/watch?v=mGZ9cZ5fPww,2022-08-09,Top 5 things to get started with Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=FQCD5rUD6cY,2022-08-06,"REPLAY Power BI Optimization Q&amp;A - LIVE w/ Marco Russo (Aug 5, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=ffIgsMS3-8c,2022-08-04,Here&#39;s a BANANAS report design idea!,youtube
 GuyInACube,https://www.youtube.com/watch?v=QewkwWtJrKg,2022-08-03,What if we could RATE a Power BI report page?,youtube
 GuyInACube,https://www.youtube.com/watch?v=YgYTQpVnhVM,2022-08-02,Can you be a Data Scientist without actually being a Data Scientist???,youtube
 GuyInACube,https://www.youtube.com/watch?v=4J4go5juEj0,2022-07-30,"REPLAY Power BI tips from the Pros - LIVE (July 30, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=eviMr_f_LQM,2022-07-27,Discovering data within Power BI and quickly EXPORT!,youtube
+GuyInACube,https://www.youtube.com/watch?v=YgYTQpVnhVM,2022-08-02,Can you be a Data Scientist without actually being a Data Scientist???,youtube
+GuyInACube,https://www.youtube.com/watch?v=4J4go5juEj0,2022-07-30,"REPLAY Power BI tips from the Pros - LIVE (July 30, 2022)",youtube
+GuyInACube,https://www.youtube.com/watch?v=eviMr_f_LQM,2022-07-27,Discovering data within Power BI and quickly EXPORT!,youtube
 GuyInACube,https://www.youtube.com/watch?v=wDfcX3EPZL0,2022-07-26,FAST - Billions of rows with Azure Data Explorer (ADX),youtube
 GuyInACube,https://www.youtube.com/watch?v=tfTrohtZXtc,2022-07-23,"REPLAY Power BI tips from the Pros - LIVE (July 23, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=bwbWQL8zjx0,2022-07-21,The most UNDERUSED feature in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=L7dMVFDgs7Q,2022-07-19,Intro to aggregates in T-SQL,youtube
-GuyInACube,https://www.youtube.com/watch?v=vTEaSRyVPxI,2022-07-14,Is it a KNOWN ISSUE in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=XA5twJ2wLd0,2022-07-13,Select All items for Parameters in Power BI Paginated reports,youtube
 GuyInACube,https://www.youtube.com/watch?v=ukVlPeQ-yNc,2022-07-07,How I learn things,youtube
+GuyInACube,https://www.youtube.com/watch?v=XE_58akjXEc,2022-07-02,"REPLAY Power BI tips from the Pros - LIVE (July 2, 2022)",youtube
+GuyInACube,https://www.youtube.com/watch?v=ZEcQ13TaIWA,2022-06-28,What&#39;s up with the different JOINS in Azure SQL and Azure Synapse?,youtube
+GuyInACube,https://www.youtube.com/watch?v=IhQVOS34QKA,2022-06-23,Why can&#39;t Power BI connect to my cloud source???,youtube
 GuyInACube,https://www.youtube.com/watch?v=XE_58akjXEc,2022-07-02,"REPLAY Power BI tips from the Pros - LIVE (July 2, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=ZEcQ13TaIWA,2022-06-28,What&#39;s up with the different JOINS in Azure SQL and Azure Synapse?,youtube
 GuyInACube,https://www.youtube.com/watch?v=IhQVOS34QKA,2022-06-23,Why can&#39;t Power BI connect to my cloud source???,youtube
@@ -4881,6 +4882,7 @@ GuyInACube,https://www.youtube.com/watch?v=8M2VIPLdF3A,2022-05-18,Another 30-Day
 GuyInACube,https://www.youtube.com/watch?v=0duJpevXlaA,2022-05-14,"REPLAY Power BI tips from the Pros - LIVE (May 14, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=lTkWAfrMwOg,2022-05-11,Why isn&#39;t my Agg hitting when using DISTINCTCOUNT in Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=-e3jNYl9AJ4,2022-05-10,How to make SQL Pools even faster in Azure Synapse Analytics,youtube
+GuyInACube,https://www.youtube.com/watch?v=-e3jNYl9AJ4,2022-05-10,How to make SQL Pools even faster in Azure Synapse Analytics,youtube
 GuyInACube,https://www.youtube.com/watch?v=utz9NQZyZ1A,2022-05-07,"REPLAY Power BI tips from the Pros - LIVE (May 7, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=aJHhQsNiOiw,2022-05-05,EFFICIENT approach in Microsoft Teams for Power BI questions!,youtube
 GuyInACube,https://www.youtube.com/watch?v=CYSMZxaXNLk,2022-05-04,My Excel file is in the cloud! Why isn&#39;t refresh working in Power BI???,youtube
@@ -4890,7 +4892,6 @@ GuyInACube,https://www.youtube.com/watch?v=JHq5mHPP8-A,2022-04-23,"REPLAY Power 
 GuyInACube,https://www.youtube.com/watch?v=BSmmNgO_EOU,2022-04-20,Blown AWAY by Column From Examples in Power Query,youtube
 GuyInACube,https://www.youtube.com/watch?v=WybnTHDl-AM,2022-04-14,How to get a DATE TABLE easily in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=RbMFQNthlGM,2022-04-13,Are you backing up your Power BI Dataset???,youtube
-GuyInACube,https://www.youtube.com/watch?v=_p5GcjYMHq0,2022-04-09,"REPLAY Power BI tips from the Pros - LIVE (April 9, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=sXn-QZqLD-8,2022-04-07,Nothing selected in Power BI Slicer? Then don&#39;t show data!,youtube
 GuyInACube,https://www.youtube.com/watch?v=-jvnjx-264c,2022-04-06,Composite models in Power BI and Storage modes - what to pick???,youtube
 GuyInACube,https://www.youtube.com/watch?v=ISacusJ1Dss,2022-03-31,Use this Power BI feature to display custom message or titles,youtube
@@ -4901,6 +4902,7 @@ GuyInACube,https://www.youtube.com/watch?v=twsuBaiPaCk,2022-03-23,Can Patrick ha
 GuyInACube,https://www.youtube.com/watch?v=hv8U_z-y-1s,2022-03-19,"REPLAY Power BI tips from the Pros - LIVE (Mar 19, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=gyOKFSVYEew,2022-03-17,Some tips for your data labels in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=t6_uRHLWiMQ,2022-03-16,"So, we just wait???",youtube
+GuyInACube,https://www.youtube.com/watch?v=t6_uRHLWiMQ,2022-03-16,"So, we just wait???",youtube
 GuyInACube,https://www.youtube.com/watch?v=L-wqwzj0-Xo,2022-03-10,Revisiting a Power BI solution with Dynamic M Parameters,youtube
 GuyInACube,https://www.youtube.com/watch?v=LTHTuX8TZZw,2022-03-09,Oops! Forgot to show this...,youtube
 GuyInACube,https://www.youtube.com/watch?v=z0KJlEJ1Flc,2022-03-05,"REPLAY Power BI tips from the Pros - LIVE w/ Marco Russo (Mar 5, 2022)",youtube
@@ -4910,11 +4912,11 @@ GuyInACube,https://www.youtube.com/watch?v=vjcWToSAlZ8,2022-02-23,Make your Powe
 GuyInACube,https://www.youtube.com/watch?v=1XMV_JKcwgw,2022-02-19,"REPLAY Power BI tips from the Pros - LIVE (Feb 19, 2022)",youtube
 GuyInACube,https://www.youtube.com/watch?v=ipdMRPdXcWA,2022-02-17,Do we need more Power BI Premium Capacity?,youtube
 GuyInACube,https://www.youtube.com/watch?v=EowHdhy-Nio,2022-02-16,A little trick for SharePoint Online Images in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=EowHdhy-Nio,2022-02-16,A little trick for SharePoint Online Images in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=RcJP_nDQaSE,2022-02-10,How to get Secure Images in Power BI Reports,youtube
 GuyInACube,https://www.youtube.com/watch?v=1yJnmZRTNZg,2022-02-09,How do I get my Excel users to use Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=YU1VjMEOw9Y,2022-02-03,Is a parameter filtered in Power BI Paginated Reports???,youtube
 GuyInACube,https://www.youtube.com/watch?v=v79MjJZoIZg,2022-01-27,Create a date range parameter with Power BI Paginated Reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=EZifdFfjTNg,2022-01-26,How Parameters work with the Power BI Paginated Visual,youtube
 GuyInACube,https://www.youtube.com/watch?v=lopTsclrpHI,2022-01-20,How we optimize Power Query and Power BI Dataflows,youtube
 GuyInACube,https://www.youtube.com/watch?v=ao9IJWcwPps,2022-01-19,Power BI Premium Gen2 updates (January 2022),youtube
 GuyInACube,https://www.youtube.com/watch?v=HckuKYlx8kk,2022-01-13,Combining refresh and real time with Hybrid Tables in Power BI,youtube
@@ -4924,6 +4926,7 @@ GuyInACube,https://www.youtube.com/watch?v=li0c6R6UpCw,2021-12-29,To Pivot or Un
 GuyInACube,https://www.youtube.com/watch?v=BmAuABIwhc0,2021-12-23,Making sense of the Power BI Premium Gen2 Metrics App,youtube
 GuyInACube,https://www.youtube.com/watch?v=gwAi8EmjDio,2021-12-22,No Calendar Table? How to add Fiscal Month and Sort in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=2hoYFQ_IjPk,2021-12-15,Avoid Parameter Error when refreshing a Power BI partition,youtube
+GuyInACube,https://www.youtube.com/watch?v=OONgT-DjmY0,2021-12-09,Are you using the right Dataflows connector in Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=OONgT-DjmY0,2021-12-09,Are you using the right Dataflows connector in Power BI???,youtube
 GuyInACube,https://www.youtube.com/watch?v=IdXK470YwAQ,2021-12-08,Use Bookmark Navigator in Power BI to easily move through Bookmarks,youtube
 GuyInACube,https://www.youtube.com/watch?v=YBTQ3CFstzs,2021-12-02,Call any Power BI REST API with PowerShell,youtube
@@ -4949,32 +4952,31 @@ GuyInACube,https://www.youtube.com/watch?v=R3Eqk1ZRUOY,2021-09-02,Case of the SL
 GuyInACube,https://www.youtube.com/watch?v=phlaZn54Mio,2021-09-01,CRUSHING requirements with Small Multiples in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=0iLSyCel6yw,2021-08-26,5 Guy in a Cube tips to make BETTER VIDEO!,youtube
 GuyInACube,https://www.youtube.com/watch?v=uKSkMDEGM2I,2021-08-19,3 signs it&#39;s time to OPTIMIZE your Power BI report,youtube
-GuyInACube,https://www.youtube.com/watch?v=OYYnoMa-93g,2021-08-18,Can you refresh a single table in Power BI?,youtube
 GuyInACube,https://www.youtube.com/watch?v=52remtERZ6o,2021-08-05,Fix my Calculation Group in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=5Fcf8eXRq2E,2021-08-04,Bringing Paginated into Power BI reports - INSANE AMAZING!,youtube
 GuyInACube,https://www.youtube.com/watch?v=nRm-yQrh-ZA,2021-07-29,Measuring RLS Performance in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=ZaZyR3-1ru4,2021-07-28,Smart Narratives and Conditional Formatting in Power BI? Yes please!,youtube
 GuyInACube,https://www.youtube.com/watch?v=ymP0TvIKFKE,2021-07-22,Looking into the future of Power BI (2021),youtube
+GuyInACube,https://www.youtube.com/watch?v=ymP0TvIKFKE,2021-07-22,Looking into the future of Power BI (2021),youtube
 GuyInACube,https://www.youtube.com/watch?v=NomSliJK3s4,2021-07-21,Intro to R with Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=_On_aX8DbJw,2021-07-15,Make your Power BI Visual POP with this column header trick,youtube
 GuyInACube,https://www.youtube.com/watch?v=T0dsCUeCFjg,2021-07-14,Exploring the Power Automate Visual in Power BI | Sending emails,youtube
 GuyInACube,https://www.youtube.com/watch?v=D1LO8syugMA,2021-07-08,Create Buckets or Groups with Power Query in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=HGpfwpjlMro,2021-07-01,Tracing with Log Analytics and Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=3_DOF_qjguA,2021-06-30,Intro to Python in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=x7q1DHf8wE4,2021-06-24,Natives Queries or ODBC with Incremental Refresh in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=aKNVLXSHRNY,2021-06-23,Digging into Modern Tooltips with Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=B3WK5RdOY54,2021-06-12,"REPLAY Tabular Editor 3 &amp; Power BI Q&amp;A - LIVE w/ Daniel Otykier &amp; Marco Russo (June 12, 2021)",youtube
 GuyInACube,https://www.youtube.com/watch?v=P0_5v2WIGcA,2021-06-10,Tracing your DAX queries in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=1yv5srlqgmI,2021-06-09,Do&#39;s and Don&#39;t with cascading slicers in Power BI,youtube
+GuyInACube,https://www.youtube.com/watch?v=1yv5srlqgmI,2021-06-09,Do&#39;s and Don&#39;t with cascading slicers in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=dYmzb5UMkXw,2021-05-27,3+ approaches for Dynamic Axis in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=Hl8DyrVdV6o,2021-05-26,Exploring ANOMALY detection in Power BI and a SNEAK PEAK,youtube
 GuyInACube,https://www.youtube.com/watch?v=D9dm0-cp1_s,2021-05-20,My CHECKLIST for troubleshooting Power BI Performance,youtube
 GuyInACube,https://www.youtube.com/watch?v=G4YND7H2vwM,2021-05-13,Tools to take Power BI to the NEXT LEVEL,youtube
-GuyInACube,https://www.youtube.com/watch?v=8hjdOCni_ZY,2021-05-06,Enable QUERY FOLDING for native queries in Power Query / Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=UgqVSEoj4BM,2021-05-05,Avoid Left Outer Joins with DirectQuery in Power BI,youtube
 GuyInACube,https://www.youtube.com/watch?v=fCGd5qID-dY,2021-04-29,Source Control with Power BI - Can it be done?,youtube
 GuyInACube,https://www.youtube.com/watch?v=NkiUC-jR67s,2021-04-28,Report BURSTING with the Power Platform,youtube
 GuyInACube,https://www.youtube.com/watch?v=emKSMFBusfM,2021-04-22,Best kept SECRET in Power BI??? You tell us!,youtube
+GuyInACube,https://www.youtube.com/watch?v=iq-SAaWkycM,2021-04-21,WHAT IF Power BI could dynamically highlight top or bottom values?,youtube
 GuyInACube,https://www.youtube.com/watch?v=iq-SAaWkycM,2021-04-21,WHAT IF Power BI could dynamically highlight top or bottom values?,youtube
 GuyInACube,https://www.youtube.com/watch?v=r46kUh40SN8,2021-04-15,The BANANAS approach to use Power BI Bookmarks to swap tooltips,youtube
 GuyInACube,https://www.youtube.com/watch?v=xCMqWEvSkAs,2021-04-14,Mastering Power BI Bookmarks,youtube
